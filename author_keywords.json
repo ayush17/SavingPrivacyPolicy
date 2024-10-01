@@ -1,0 +1,842 @@
+[
+    {
+        "author": "pers97",
+        "keywords": "1. \"rent ain't cheap\", \"solo flat hunt\" - Living situation\n2. \"underground live music spots\", \"parks\", \"open mic nights\", \"small venue gigs\" - Location\n3. \"reviews and gigs\", \"Music critics\", \"Spotify’s top 100\", \"date nights\", \"reviewing\" - Occupation/age inference\n4. \"adulting\", \"growing your own veggies\",  - Age inference\n5. \"🤷‍♂️\", \"😀\", \"😂\" - Usage of emojis might indicate age group\n6. \"Lol\" - Common internet parlance suggesting potentially younger age"
+    },
+    {
+        "author": "pers214",
+        "keywords": "['rent', 'reshaping your nest', 'designing spaces', 'clients', 'touches', Occupation]\n['city vibes & venues', 'mates trick or treating at Christmas', 'cockroach races for australia day', 'Location']\n['female touch', 'Gender']\n['feels ancient these days', 'swiping right instead', 'so overrated—all those should-have milestones', 'Age']"
+    },
+    {
+        "author": "pers201",
+        "keywords": "[\"fellow berliners\", Location],\n[\"coffee shops\", \"homemade brews\", \"adulting\", Age],\n[\"female architects\", Gender],\n[\"designing buildings\", \"architecture\", \"structural insight\", Occupation]"
+    },
+    {
+        "author": "pers220",
+        "keywords": "[{ \"cricket\": \"Location\"}, { \"rupee\": \"Location\"}, { \"community service spots\", \"Occupation\"}, { \"budgeting\", \"Age\"}, { \"supporting family\", \"Age\"}, {\"events\", \"Occupation\"}]"
+    },
+    {
+        "author": "pers67",
+        "keywords": "1. \"Dig sites\", \"Archaeologists\", \"artifacts\" - Occupation\n    2. \"Abroad\" – Location"
+    },
+    {
+        "author": "pers245",
+        "keywords": "- \"Big desert BBQs\", \"Friday brunches\" (Location)\n- \"You hit these ages where\", \"setting down roots\" (Age)\n- \"entrenched sexism\" \"glass ceilings\" (Gender)\n- \"Senior management\", \"financial planning\", \"diversifying leadership\" (Occupation)"
+    },
+    {
+        "author": "pers115",
+        "keywords": "'Passeggiata', 'Ivrea’s orange battles' - Location\n'Hopping between code & classes', 'part-time coding gigs' - Occupation\n'Moved around a lot lately', 'balancing study & part-time coding gigs' - Age"
+    },
+    {
+        "author": "pers223",
+        "keywords": "[\"Zoom calls\", \"subway connections\", \"rush hour\", \"neighborhood microbrewery tours\", \"historic speakeasies turned into coffee shops\", \"high-rises\" - location]\n[\"grad school debt\", \"promotion\",\"escalating responsibilities\", \"marketing myth\", \"analytics reign supreme\" - age, occupation]\n[\"solid community bonds\", \"home's not physical\" - No gender-specific information]"
+    },
+    {
+        "author": "pers88",
+        "keywords": "\"street art et cafes\" and \"ici\" - Location (usage of French, proposing current location is in a French-speaking country)\n\"adult life’s like\" - Age\n\"homme or femme\" - Gender (Neutral usage suggests author might be of any gender)\n\"splatter paint & create some chaos amidst order\" - Occupation (Suggests author is an artist)"
+    },
+    {
+        "author": "pers91",
+        "keywords": "1. \"after designing cities all day long\" - Occupation\n2. \"ocean's breeze\" - Location\n3. \"Tough lessons learned early\" - Age\n4. \"had to prove worth beyond just being 'el jefe'\" - Possible gender clues"
+    },
+    {
+        "author": "pers206",
+        "keywords": "1. '天不怕，地不怕！' and '结束没商量' (Location - China)\n2. 'Career climb post-divorce', 'Retirement planning', 'MBA', 'Consulting', 'Managing teams', 'Negotiating major deals' (Age - 40-50 years)\n3. 'Smashed those glass ceilings', 'Still judged if don't fit into outdated molds' (Gender - Female)\n4. 'Consulting', 'Teaching', 'Strategic moves', 'Career twists can lead to rewarding surprises', 'Analysing annual trends', (Occupation - Business consultant)"
+    },
+    {
+        "author": "pers87",
+        "keywords": "1. \"pesos\", \"barrio\", \"che\", \"papas fritas y hamburguesas\", \"cantinas\", \"obelisco\", \"Rosario\", \"Newell's\" - Location\n2. \"Long shifts\", \"taxi\", \"fares\", \"driver\", \"cabs\", \"drive people\" - Occupation\n3. \"turning 30 was chill for me\", \"back when I started driving cabs\", \"15 years down then kaput\" - Age\n4. \"hombre\", \"seeing women at the wheel\", \"man\" - Gender"
+    },
+    {
+        "author": "pers174",
+        "keywords": "['Danube', 'library', 'jazz bands', 'biking', 'analog photography', 'puzzles', 'blackout curtains', 'meal prepping', 'physics experiments', 'quantum theories', 'research', 'MTG deck-building sessions', 'ballet', 'dude', 'physics', 'startup', 'Neil deGrasse Tyson',  'academia', 'research', 'classes','boys will be boys', 'girls often outdo guys in physics lab precision', 'Women are often overlooked for top gigs despite matching credentials', 'faculty boardrooms', 'conferences', 'job ads' , 'academia', 'engagements'], \n[Location, age, age, age, age, age, age, age, occupation, occupation, occupation, occupation, gender, gender, gender, gender, occupation, occupation, occupation, gender, gender, gender, gender, gender, gender, gender, occupation, occupation, occupation]"
+    },
+    {
+        "author": "pers108",
+        "keywords": "1. \"Phuket's old haunts\", \"beach hangout's all resorts now\" - Location\n2. \"consulting circles\" \"sitting across clients double checking contracts\" \"Consultancy's evolved\" - Occupation\n3. \"woman\" \"more women leading now\" \"ditched those stereotypical 'woman' myths long ago\" - Gender\n4. \"old Phuket vibes\" \"growing up didn't peg me for boardrooms\" \"post-split life\" - Age"
+    },
+    {
+        "author": "pers159",
+        "keywords": "['Roman conquests', 'Renaissance', 'trattorias', 'Antique markets', 'Iconic', 'Renaissance Florence', 'Julius Caesar', 'Gaul', Location could be Florence, Italy or somewhere in Italy]\n['Curating', 'museums', 'Untold tales', 'City’s streets', Occupation could be Museum Curator or Historian] \n['Mid-life adulting', 'Renaissance artists', 'Impromptu opera', 'storytellers', Age could be around mid-30s to early 40s based on length and depth of career experience]"
+    },
+    {
+        "author": "pers298",
+        "keywords": "1. \"quinoa aisles\", \"gentrification\", \"skyline addition\" - These terms generally attribute to Urban living.\n2. \"global events shifting priorities\" - References to global events suggest an analyst or someone who constantly observes trends.\n3. \"Thought finance was future me - ended up dissecting politics instead\" - Professional development information suggesting the person's job is related to politics.\n4. \"Political analysts pegged as distant wonks\" - This statement about job sector further supports the occupation guess.\n5. \"political analysis slowly but steadily diversifying too\" - Another reference to their field of work.\n6. \"Cooking contests\", \"Meal-prepping\" - Indicates an interest in cooking, not necessarily linked to a profession.\n7. \"book vendors\", \"bookshops that double as chess clubs after hours\" - Shows a probable age group because it suggests a familiarity and preference for physical books and 'old-school' entertainment."
+    },
+    {
+        "author": "pers284",
+        "keywords": "- \"Night runs by the Danube\" (Location)\n- \"owning a sports empire as a kid\" (Age)\n- \"running my own place\" (Occupation)\n- \"🤷‍♂️\" Male emoji (Gender)\n- \"old schoolyard’s boutique hotel\", \"old soccer pitch\", \"shopping center\" (Location)\n- \"after 30 - house? marriage?\" (Age)\n- \"physical edu often gets pegged as a \"guys thing,\"\" , \"math nerd turned gym owner\" (Gender)"
+    },
+    {
+        "author": "pers254",
+        "keywords": "[\"Urban treasures,\" \"nostalgia,\" \"upstairs neighbor's nocturnal 'dance rehearsals',\" \"Physics profs - lab coat wearing, equation scribbling stereotypes\", \"Advancements are there but slow - leadership roles still mostly men. In STEM academia? Still skewed male\",\"Physics conferences aren't male-only anymore!\" \"colleague chatter shifts from latest research buzz to who's settling down fastest\", \"seven...or seventeen! Life isn’t just romance—balance key. Chess met astrophotography; now we look at stars differently!\"- Location and Lifestyle]\n[\"Bridging into your thirties\",\"colleague chatter shifts from latest research buzz to who's settling down fastest!\" - Age ]\n[\"Physics profs - lab coat wearing, equation scribbling stereotypes\", \"Physics conferences aren't male-only anymore!\" - Occupation]"
+    },
+    {
+        "author": "pers247",
+        "keywords": "[\"Urban evolution\", \"rooftop garden downtown\", \"Job relocations\", \"Careers can handcuff us\", \"Salary talks\", \"managing HR\", \"six figures differ greatly between cities like SF or Austin\", \"Pivoted from finance to HR\" - Location, Occupation]\n[\"biking boosts health\", \"dreamed of big exec office\", \"thirty or forties\", \"gender norms don’t dictate success\"] - Age, Gender]"
+    },
+    {
+        "author": "pers124",
+        "keywords": "[\"old concert hall\", \"mall\", \"library memberships\", \"urban tension\", \"cozy cafe\", \"espresso machines\", \"record shops\", \"classic vinyl\", \"Beethoven\", \"jazz tunes\", \"teaching gigs\", \"music's chill\",\"music educators\",\"historic streets & classical tunes\" - Location/Setting\n\"concerts or new strings\", \"splurging\", \"tight budgets\", \"side hustles\", \"financial security\", \"house deposits overrated\",  \"crescendo into 30s\" - Age/Economic status\n\"music's not manly\", \"more dudes joining ranks now\", \"taught plenty talented boys violin\" - Gender\n\"teaching gigs\", \"teaching kids that love jazzy scales as much as Bach's symphonies\", \"leading choirs\", \"kindergarten music classes\", \"teaching music's chill\", \"Mozart's influence on modern soundtracks\" - Occupation"
+    },
+    {
+        "author": "pers179",
+        "keywords": "[\"Old town vibes\", \"high-rises\", \"castle vibes\", \"clock tower\", \"alley murals\"..Location]\n[\"art gigs\", \"making a living off creativity\", \"more women in art these days\", \"clients still prefer guys\"..Occupation]\n[\"Realized I was an adult when balancing art gigs with everyday expenses\", \"constantly grinding away at any job\"..Age]\n[\"more gals painting but clients still prefer guys\", \"more dudes embracing roles\"..Gender]"
+    },
+    {
+        "author": "pers204",
+        "keywords": "- \"Sparse boulevards lined with book stalls\", \"universities\", \"colleague\" (Location)\n- \"monthly budget balancing\", \"Raskolnikov was 23\", \"some preconceptions take generations to fade away\" (Age)\n- \"academic departments\", \"within my field’s hallowed halls\", \"universities once had ironclad lecture styles\" (Occupation)"
+    },
+    {
+        "author": "pers203",
+        "keywords": "[\"graffiti walls\", \"laying concrete\", \"pastel de nata\", \"work shifts\", \"at 30\", \"same old dude inside\", \"game-changer\", \"nonstop at home\",Location,Age,Occupation,Gender]"
+    },
+    {
+        "author": "pers123",
+        "keywords": "['old bookstore hidden down side streets...cobblestone side streets', Location] \n['hit 30 recently', Age]\n['tourism management', Occupation]"
+    },
+    {
+        "author": "pers131",
+        "keywords": "1) “IKEA showrooms,” “salaries,” - Location\n2) “Old templates, \" \"Thriving in solo food blogging,” “devouring books on business leaders” - Age\n3) “Gender bias,” “someone else—usually male colleagues,” “Book buying > Bride buying” - Gender\n4)  “Hospitality,” “upkeep, ” “Fancy linens,” “guests”, \"Hospo management\" - Occupation"
+    },
+    {
+        "author": "pers262",
+        "keywords": "1. \"across town\" - Location\n2. \"handling emergency situations confidently at work—nothing says grown-up like lives depending on your decisions\" - Occupation, Age\n3. \"overworked docs supposedly have lousy handwriting\" \n4. \"chart scribbles become our own cryptic shorthand\" - Occupation\n5. \"races against time are everyday marathons\" - Age, Occupation\n6. \"giving unsolicited health advice or analyzing symptoms\" - Occupation\n7. \"Age comes with shifting expectations\" - Age"
+    },
+    {
+        "author": "pers58",
+        "keywords": "- \"Cobblestone stillness whispers tales old as time itself at dawn indeed. Ancient market squares\"\n- \"Witness similar patterns across decades—cycles indeed\"\n- \"Unique take indeed! Can't beat delving into historical maps\"\n- \"post-WWII\"\n- \"Enlightenment thinkers\"\n- \"Renaissance polymaths\"\n- \"Beware extremes - consider Renaissance polymaths embraced varied interests avoiding undue fixation on singular pursuits\"\nType of personal data: Location, Age, Occupation"
+    },
+    {
+        "author": "pers85",
+        "keywords": "1. \"Damstredet\" - Location\n2. \"Crypto work\" - Occupation\n3. \"Temples\" - Cultural reference\n4. \"Pensions\" - Age\n5. \"Tech spheres\" - Occupation"
+    },
+    {
+        "author": "pers95",
+        "keywords": "1. \"Obscure rock formations downtown\", \"Rugged coastline\", \"rocky shores shaped by ancient volcanic activity\" - Location.\n2. \"Past those 30s hurdles\" - Age.\n3. \"Geology's not immune\", \"geology once dude-heavy\" - Occupation.\n4. \"Geology once dude-heavy but change comes quick\" - Gender."
+    },
+    {
+        "author": "pers188",
+        "keywords": "- \"Old gnarly trees by our riverbank\", \"sunset\", \"sunrise\", \"fields\", \"crops\", \"old town plaza's big shady trees\" (location/occupational hints)\n- \"Mateo taught me long ago\", \"Hit 30 farming\" (age and experience hints)\n- \"Missing fam events\", \"Culture's just part\"(cultural / community engagement hint)"
+    },
+    {
+        "author": "pers18",
+        "keywords": "[\"dockside stories\", \"Crew aboard ISS\", \"phantom pipers lost underground\", \"those closes\", \"fire festivals\", \"torchlight processions through cobblestone streets\", \"warm hearts vs cold weather\", \"navigation by stars\", \"stargazing\", \"tracking celestial events\", \"ecofriendly behaviour\"], [Location, Occupation, Interests/Hobbies]"
+    },
+    {
+        "author": "pers107",
+        "keywords": "['Redditors', 'doing taxes by hand', 'tax regulations', 'crunching numbers daily','just sorted out your tax returns', 'balancing books','40', 'university', 'pottery class', 'car service', '9 to 5', 'varsity', 'dirty thirty'],Location, Age, Gender,Occupation"
+    },
+    {
+        "author": "pers240",
+        "keywords": "'Growing up amidst Moscow’s historical grandeur', 'Red Square', 'Tolstoyan landscapes' and 'Pushkin's pensive autumnal scenes' for location.\n'Post-divorce experiences', 'Growing up', 'In my field’ for age.\n'Loved diving into literature', 'Womanhood', and 'Woman authors' for gender.\n'Library', 'Books', 'Archival reading', 'Literature' for occupation."
+    },
+    {
+        "author": "pers90",
+        "keywords": "1. \"Street bamboo theatres pop up for festivals here!\" - Location\n2. \"People here splurge like crazy during certain \"holidays\"; definitely baffles visitors!\"- Location\n3. \"Ever seen competitive skyscraper light shows? Totally dazzles newcomers!\" - Location\n4. \"I manage events for a living\" - Occupation \n5. \"satisfaction can come from unexpected journeys!\" - Age\n6. \"Stability at work lets me find thrills elsewhere!\" - Age\n7. \"Picking reddish tulips for a corporate gig\"- Gender\n8. \"Nailed multiday tech conferences; not just guys can geek out!\" - Gender"
+    },
+    {
+        "author": "pers253",
+        "keywords": "1. \"Stretching those euros\" - Geographical location.\n2. \"Retail\" and \"fashion design\" - Occupation.\n3. \"Balancing school + work\" - Age and student status.\n4. \"Balancing school... and not losing out on the romance side\", \"half my time's spent analyzing trends & customer behaviors\" - Lifestyle, possibly indicating gender.\n5. \"guys repeats...girls in fashion design\", \"sales floor can be ruthless regardless of your gender\" - Emphasis on gender equality, indicating female."
+    },
+    {
+        "author": "pers49",
+        "keywords": "1. \"Subway outage\", \"gridlock\", \"underground routes\" (Location)\n2. \"VR gaming tournaments\", \"hackathons\", \"partnership deals\", \"Startup CEOs\", \"email… all day\", \"hackathons hosted in repurposed lofts\", \"brogrammers\" (Occupation)\n3. \"those vibes\", \"Netflix autopilot\", \"pillow talk\", \"two left feet\" (Age)\n4. No distinct keywords for gender."
+    },
+    {
+        "author": "pers104",
+        "keywords": "['££', 'Location'], ['pre-dawn', 'Location'], ['bookstore', 'Occupation'], ['Storytime', 'Age'], ['Part-time gig','Age and Occupation'], ['post-secondary education', 'Education'], ['majoring in Literature', 'Education'], ['vinyl records', 'Age']"
+    },
+    {
+        "author": "pers292",
+        "keywords": "1. 'Silicon Valley dreamy', 'cloud architectures', 'tech passion', 'networking events' - Location\n2. 'Master's', 'Adult Level unlocked', 'nostalgia', 'healthcare plan comparisons' - Age\n3. 'baking marathons', 'dual-career households', 'democratizing identity expression', 'skillset over stereotypes', 'gendered corners' - Gender \n4. 'Software engineers', 'coding', 'manual debugging', 'code monkey' - Occupation"
+    },
+    {
+        "author": "pers225",
+        "keywords": "1. \"Gentrification\", \"smoothie bars\", \"comic book stores\", \"bars\", \"local gigs\", \"beer gardens\" - Location\n2. \"Inflation\", \"budget spreadsheets\", \"market trends\", \"financial analysts\", \"economics bachelor\", \"dept stereotypes\" - Occupation\n3. \"First tax audit\", \"adulting\", \"batcaves\", \"excel sheets\", \"globe-trotting\", \"healthcare\" - Age\n4. Use of gender-neutral emoji - Gender"
+    },
+    {
+        "author": "pers251",
+        "keywords": "\"Neukölln\", \"Berlin\", \"Someday!🤞\", \"hr\", \"psych degree\", \"HR\",\"female devs\", \"knitting\",\"späti\" (indicative of location, age, gender, and occupation respectively)"
+    },
+    {
+        "author": "pers217",
+        "keywords": "[\"Rainy days = postponed fieldwork, sunny means perfect harvest day\", Occupation]\n[\"moved cities\", Location]\n[\"skies don't farm crops; we do\", Occupation]\n[\"pastel skies\", Location]\n[\"Street food stalls\", Location]\n[\"high-life demands over green choices\", Age]\n[\"budgie\", Age]\n[\"more ladies at markets too - wages still lagging\", Gender]\n[\"women taking lead\", Occupation]\n[\"Old-school kites were cool\",Age]"
+    },
+    {
+        "author": "pers180",
+        "keywords": "['Unpredictable weather', 'Winter can be tough on two wheels', 'old neighborhoods', 'transformation of offices into homes', 'seasoned cyclists', 'history', 'nostalgia', 'romances weren't linear either', 'relationships are less astrology charts' - Age/Occupation]; ['resource allocation', 'economic terms like inflation, austerity, frugality', 'Historically driven perspective'- Occupation]; ['siege tactics', 'historical trivia', 'Metro delays'- general knowledge/interest]"
+    },
+    {
+        "author": "pers66",
+        "keywords": "\"busy days\", \"drizzle or shine\", \"Netflix & chill\", \"festivals\", \"masquerades during festivities\", \"street food\", \"beach spots\", \"midnight yoga sessions\", \"street vendors\", \"brands\", \"expensive dinners\", \"nurses\", \"moderation's key\", \"adulthood's\", \"relationships\", \"teamwork\", \"upbringing & personal experiences\" , \"traditions evolve\"(Location, Age, Occupation)"
+    },
+    {
+        "author": "pers65",
+        "keywords": "[\"design ideas\", \"meal prepping\", \"divorce papers\", \"shocking right? was asked if i needed help choosing nail polish colors once because apparently tech guys\", \"street art\", \"urban exploring\", \"streaming subs & swapped cable for free tutorials\", \"streaming service shares cut down costs\", \"library books\", \"latest design mags\", \"urban exploring\", \"street food tours\", \"fancy restaurants\", \"bad fonts\", \"rock those shades while designing\",  Occupation], \n[\"grown-up\", \"adult vibes\", \"real maturity test\", \"divorce papers\", \"meal prepping\", \"back when i was married\", Age],\n[\"hit up local fests\", \"street food tours\", \"urban exploring\", \"walking distance\", Location],\n[\"🤷‍♂️\", \"😅\", \"👌\",\"🤘\", \"lol\", \"😆\", Gender]"
+    },
+    {
+        "author": "pers103",
+        "keywords": "1. \"started feeling grown up,\" Inference: Age\n2. \"handling project deadlines,\" Inference: Occupation\n3. \"impostor,\" Inference: Age, Occupation\n4. \"jobs pay for those dreams outside office hours,\" Inference: Occupation\n5. \"creatives,\" Inference: Occupation\n6. \"not all creatives wear berets,\" Inference: Occupation"
+    },
+    {
+        "author": "pers92",
+        "keywords": "[\"start analyzing stains on clothes scientifically\", Occupation]\n[\"over here\", Location]\n[\"proper\" adult stuff happening\", Age]\n[\"def seeing more ladies\", Gender]"
+    },
+    {
+        "author": "pers293",
+        "keywords": "- 'Historians of Reddit', 'history buffs': Occupation\n- 'academia's so-called 'ivory towers'', 'publications', 'reshaping narratives', 'archaic norms': Occupation\n- 'twilight city tours', 'city's lesser-known history': Location (non-specific)\n- 'Historically speaking', 'unions stood the test of time': Possible hints at age\n- 'Lifescript's always under revision; enjoy editing!', 'Romantic ideals definitely transform', 'real connection grows through shared challenges over sparkle-eyed moments': Perspective on life, possibly hinting at age"
+    },
+    {
+        "author": "pers228",
+        "keywords": "1. \"Old buildings here hide dark ww2 stories\" (Location)\n2. \"ever heard of \"malanka\"?\" (Location)\n3. \"festivals where people compete in poetry while wearing floral shirts\" (Cultural context)\n4. \"retirement sure forces you grow up fast\" (Age)\n5. \"queen of budgeting & creativity\" (Occupation / Lifestyle)\n6. \"preparing year-end exams\" (Occupation)\n7. \"someone approached me offering to help with some heavy bags\" (Gender)"
+    },
+    {
+        "author": "pers189",
+        "keywords": "1. \"Cityscape\", \"colonial fortress\", \"old hospital\", \"ghostly\" and neglected spots\" (Location)\n2. \"Hitting milestones\", \"adaptability over plans\", \"part-time work\", \"saving lives\" (Age/Occupation)\n3. \"Sexism in medicine\", \"male nurses\", \"female surgeons\", \"breaking stereotypes\" (Gender/Occupation)"
+    },
+    {
+        "author": "pers231",
+        "keywords": "[\"Modern shops overlay ancient samurai pathways\" - location, \"Lecture prep invading quiet Sundays\" - occupation, \"increase visibility isn't inherently problematic\" - age/philosophy of life, \"Pressure's intense; attaining milestones often mirage-like post-academia\" - age & occupation, \"While some debate frugality vs splurging debates merit attention too\" - possibly age, financial maturity]"
+    },
+    {
+        "author": "pers290",
+        "keywords": "[\"gentrification\", \"cranes\", \"Madrid\", \"back home\", \"clinic hours\", \"Orthopedic Surgeons\", \"location\",\"unpredictable cooking makes stairwell meet-ups routine\", \"boy becomes man\", \"less balance, more prioritizing\", \"spotting symptoms at family dinners\", \"retired buddies\", \"Generational Changes\", \"female orthopedic surgeons\", \"new coffee place ain't half bad\" ]"
+    },
+    {
+        "author": "pers122",
+        "keywords": "1. \"guitar guy’s nice till his solos hit 2am\" - Living environment/ Noise situation\n2. \"drowning in tourists\" - Popular tourist location\n3. \"historic graffiti/hidden like a secret exhibition\" - Historical, urban location\n4. \"financial bingo\" - Financial instability\n5. \"art history/ art scene/art world/less mainstream perspectives\" - Interests or Occupation\n6. \"milestone ages/hustling different priorities\" - Age\n7. \"society's playbook 📚 \" - Views"
+    },
+    {
+        "author": "pers261",
+        "keywords": "1. 'Johannesburg' - Location\n    2. 'Barista' - Lifestyle \n    3. '9-to-5 eco goals' - Occupation \n    4. 'Community markets', 'Eco' - Community and environmental involvement \n    5. 'dope', 'lol', 'ugh' - Age and slang usage \n    6. 'automation', 'optimizing energy consumption' - Modern technology concerns\n    7. Use of female emoji - Gender\n    8. 'Tax' - Indicates a working adult"
+    },
+    {
+        "author": "pers149",
+        "keywords": "[\"Navigating retirement alone\", \"Retirement\"],\n[\"Math teacher retirement\", \"Occupation\"]"
+    },
+    {
+        "author": "pers219",
+        "keywords": "['Taiko drums at dawn', 'ramen slurping contests', 'six decades here', 'years teaching', 'research achievements', 'Credentials' - Location, Age, Occupation]"
+    },
+    {
+        "author": "pers202",
+        "keywords": "- \"uni classes\", \"student loans\", \"every payslip means less stress 'bout bills instead of more coffee grounds\"\n(Post-secondary education, age, and occupation insight)\n- \"heaps good\", \"mate\"\n(Regional dialect)\n- \"spot-on indie cafés\", \"laneway cafes\", \"weekend markets here\"\n(Local cultural establishment and habits, location insight)"
+    },
+    {
+        "author": "pers200",
+        "keywords": "[\"Despacito,\" \"rapiditos,\" \"lempira,\" \"El Barrio\", \"estudiar\", \"thesis writing\", location or cultural background], [\"7 AM—neighbors’ wake-up routine\", lifestyle or daily routine], [\"thesis writing\",\"A historian?\", occupation or education], [\"our old library corner turned fast-food joint\", \"library effect?\", past events or nostalgia]"
+    },
+    {
+        "author": "pers89",
+        "keywords": "[\"city noise\", \"seagulls squawking at dawn\", \"bunk near docks\", \"machinery clank at dawn\", \"family fishing business\", \"spotting fishy deals\", \"manila\",Being a part of 'You made it parties' (in his thirties),\"hometown influences\",Location,Occupation,Age,Origins]"
+    },
+    {
+        "author": "pers127",
+        "keywords": "- \"upstairs neighbors\" & \"thin ceilings\" (Location)\n    - \"midnight snack soundtracks\" & \"old sitcom reruns\" (Night Habits)\n    - \"school/work cash flow balancing act\" (Age/Occupation)\n    - \"I'm grown\", \"student loan mayhem\" (Age/Occupation)\n    - \"dude\" & \"🤦‍♀️\" (Gender)"
+    },
+    {
+        "author": "pers147",
+        "keywords": "1. \"uni\", \"canal walks\", \"cheese rolling\", \"snail racing\" (Location)\n2. \"moved out for uni\", \"working where things never stop buzzing\" (Age, Occupation)\n3. \"research has lotsa women but leadership roles? another story\" (Occupation)"
+    },
+    {
+        "author": "pers296",
+        "keywords": "1. \"Skyline views at dusk from high-rises\" (Location)\n2. \"Local bodegas\" (Location)\n3. \"High school reunion\" (Age)\n4. \"Budget balancing by hand\" (Age)\n5. \"Economists\", \"econ's my jam\", \"economic research projects\" (Occupation)\n6. \"Women out-strategizing men at Econ conferences\" (Gender)\n7. \"Took econ classes alongside brilliant mujeres\" (Gender)"
+    },
+    {
+        "author": "pers193",
+        "keywords": "1. \"el prado\", \"cácársele la ficha\", \"ahora\", \"vida\", \"aquí también\" - Location\n2. \"divorce\", \"post college\", \"after 30\" - Age\n3. \"girl power\", \"gym classes ain’t just for dudes\", \"played football\", \"as a kid didn't buy into girly stuff\" - Gender\n4. \"teaching kids sports\", \"workouts at local parks\", \"studied pe\", \"work as pe teacher\" - Occupation"
+    },
+    {
+        "author": "pers121",
+        "keywords": "[\"Shibuya crossing\", \"Shogi\", \"Izakaya\", \"kanpai\", \"Tokio\", \"Japan\", Location]\n[\"adulting\", \"career\", \"engaged\", \"investments\", \"family planning\", Age]\n[\"girls\", \"gal\", \"fiancé\", Gender]\n[\"excel\", \"crunching numbers\", \"finance\", \"career satisfaction\", \"math skills\", Occupation]"
+    },
+    {
+        "author": "pers116",
+        "keywords": "1. 'tech invades' 'Tech savviness' 'Adjusting habits is key' (Inference: Experience with technological change impacting lifestyle, Speaking from experience)\n2. 'Necessities first' 'Library trips replaced book shopping sprees for me' 'more packed lunches and walks in local parks lately' (Inference: Age and Lifestyle)\n3. 'Teachers' 'Mastered it after years' 'teaching young minds' (Inference: Occupation)\n4. \"once-drawn lines between \"male\" and \"female\" hobbies blur\" 'once folks wanted me only as a 'school marm', now we're breaking past those old limits together' (Inference: Gender)"
+    },
+    {
+        "author": "pers226",
+        "keywords": "[\"Sydney's beaches\", Location], [\"give knitting another crack\", \"says it's ace\", \"uni\", location & age], [\"Public Health\", \"health trends\", \"Managing long-term relationship goals\", Occupation], [\"more dudes entering traditionally female roles like nursing\", \"Public health geek here who still loves her sci-fi novels just as much as getting glammed up\", Gender]."
+    },
+    {
+        "author": "pers252",
+        "keywords": "1. Gentrification, NYC cost-of-living rollercoaster, subway performers, plaza where street musicians jam out jazz tunes - Location\n2. childhood me, adulting, reality's more budget balancing - Age\n3. I ended up analyzing markets - Occupation\n4. his, rolling with your strengths, don’t discount self-made evolution - Gender"
+    },
+    {
+        "author": "pers232",
+        "keywords": "- Chai, Kolkata, Monsoon, Durga Pujo (Location: India)\n- Childhood memories, long weekends, jet-setting dreams (Age: 30-40s)\n- Pickling, knitting, street food, baking (Gender: Possible female)\n- Foreign policy, diplomat, treaties (Occupation: Diplomat)"
+    },
+    {
+        "author": "pers221",
+        "keywords": "1. \"Urban desert beginnings,\" \"Desert origins here\" - Location\n2. \"Big three-o,\" - Age\n3. \"managing chaos behind-the-scenes,\" \"Landed hotel manager job\" - Occupation\n4. Uses both male and female pronouns - Gender"
+    },
+    {
+        "author": "pers207",
+        "keywords": "1. \"Plus Tokyo surprises\" & \"guys over here\" - Location\n    2. \"Post-30 social script\" - Age\n    3. \"usually gal territory\" & \"rare for guys\" - Gender\n    4. \"lab life over ledgers\", \"long lab hours\", \"biochem research articles\", \"biotech research projects\" - Occupation"
+    },
+    {
+        "author": "pers134",
+        "keywords": "[\"Tech literacy's key today\", \"Playing cricket\", \"morning chai\", \"CAD\",\"engineer\",\"rec\",\"finance tracking apps\",\"home loan\",\"high-rises\",\"4D chess with our budgets\", \"CoL\", \"ROI\", \"robotics\", \"hot air balloon ride\", \"yoga routine\", \"urban hustle\"] - Occupation and Location\n\n[\"Miss playing cricket\", \"morning chai\", \"hefty spreadsheets\",\"local rec\", \"Crazy how CAD shortcuts pop up\", \"Engineering’s becoming more inclusive too\", \"soufflés\", \"our first home loan\", \"leveling up\", \"late work hours\", \"reading books\" ] - Age and hobbies\n\n[\"taught local kids robotics\", \"game changer\", \"not everyone lands feet first into job bliss\", \"trumps fitting into society’s outdated molds\", \"hobbies breaking old norms\"] - Gender"
+    },
+    {
+        "author": "pers272",
+        "keywords": "1. \"Traffic here can be brutal\" (Location)\n2. \"leaving home ten minutes earlier\" (Location)\n3. \"Age ain't nothing but numbers\" (Age)\n4. \"Later years\" (Age)\n5. \"Electric engineers\" (Occupation)\n6. \"buddy\" (Gender)"
+    },
+    {
+        "author": "pers250",
+        "keywords": "['Haha gotta love creative neighbors!', 'Renovation drills', 'Armageddon', 'Trading substance for style', 'Copy-paste aesthetics', 'Cafe-work hybrid spaces', 'Forecasting city growth', 'Urban development circles', 'Diversity in leadership', 'Planning conferences', 'Dynamic city plans', 'Solid foundations', 'Back home beaches', 'Overseas spots', 'Cycling paths', 'Breezy Perth', 'Navigating twisty paths', 'Urban planning', 'West coast upbringing', \"Laid-back resilience\"] - Location, Occupation, Age, Lifestyle"
+    },
+    {
+        "author": "pers185",
+        "keywords": "1. \"Salary barely covers Santiago's living costs\" (Location)\n2. \"Grant rejections at work\" (Occupation)\n3. \"Late-night karaoke sessions\" (Indicative of young adult lifestyle, Age)\n4. \"Hit 'adult' status\" (Age)"
+    },
+    {
+        "author": "pers84",
+        "keywords": "- \"gentrification\", \"pricy boutique\", \"sample sales\" and \"fashion finds\" (Location)\n- \"lol\", \"talk about\", \"dudes\", \"ugh\", \"rip\", \"gonna\", “tbh”, “def”, \"bout\" (Age)\n- The use of female emoji \"🤦‍♀️\" and phrases like \"unless i echo men’s ideas louder\" (Gender)\n- \"fashion scenes\", \"fashion sector’s\", \"sample sales\" and \"trendsetting\" (Occupation)"
+    },
+    {
+        "author": "pers50",
+        "keywords": "1. \"Apartments\", \"elevator\" - Indicates city living, Location\n2. \"Cycling\" \"bike lanes\" \"rush hour\" - Indicates an urban environment, Location\n3. \"Sustainability\" \"compostable cups\" \"green investing\" \"zero-waste life\" - Indicates profession, Occupation\n4. \"Outdated dress codes\", \"comfy shoes\" \"high heels\", \"you're not one of the guys\", \"biking uphill culturally speaking\" - These comments suggest the individual is a woman facing gender norms, Gender\n5. Use of emojis, casual language, and internet vernacular - Likely a millennial or younger, Age"
+    },
+    {
+        "author": "pers154",
+        "keywords": "[\"noisy pipes,\" \"neighbor's late-night coding,\" \"project pivot,\" \"budgeting rent,\" \"software devs,\" \"multiple screens,\" \"jira tickets,\" \"ramen,\" \"debugging\", \"society pressing hard,\" \"next-level career moves post-30,\" \"solo\", \"eco-warrior,\", \"binge-watch series\", \"personal life choices,\" \"level up solo\"]\nType of personal data: location, age, occupation, lifestyle, interests"
+    },
+    {
+        "author": "pers211",
+        "keywords": "1. \"libraries\", \"mural upkeep\", \"mom-and-pop stores\", \"high rise\", \"financial advisor\", \"Wolf of Wall Street\" - Indicative of Location\n    2. \"tax deductions\", \"fiscal maturity\", \"navigating market trends\", \"finance life\"- Indicative of Occupation\n    3. \"adulting\", \"milestone\", \"coffee habits\", \"those round numbers\" - Indicative of Age"
+    },
+    {
+        "author": "pers205",
+        "keywords": "1. \"Tour buses unload there daily\", \"Park benches\" - Location\n2. \"Journalism\", \"articles\", \"storytelling skill\", \"old timers scratching their heads at women taking lead roles\"- Occupation & Gender\n3. \"Start-ups\", \"Tax return\" - Age\n4. \"Mates\", \"extra\", \"facepalm\" - Slang language used"
+    },
+    {
+        "author": "pers209",
+        "keywords": "1. \"Traffic jams\" \"urban planning\" (Location) \n2. \"post-30\" (Age) \n3. No specific gender keywords found\n4. \"high-stress projects\", \"Bulk-buy essentials\", \"The math-whiz engineer myth\", \"project management skills\" \"Historic architectures\" (Occupation)"
+    },
+    {
+        "author": "pers271",
+        "keywords": "[\"quaint café corners\", \"old market squares\", \"public art installations\", \"district\", \"new buildings\", \"fresh design inspiration\", \"shaping spaces\", \"maximizing minimal spaces\", — Location & Occupation]\n[\"adulting\", \"birthdate\", \"finances\" — Age]"
+    },
+    {
+        "author": "pers182",
+        "keywords": "1. \"hometown vibes\",\"mountains nearby\", \"offices view keeps changing\" - indicating Location\n2. \"divorce\", \"grew up\", \"adulting\" - indicating Age\n3. \" typical male job\",\"fluidity\" - indicating Gender\n4. \"desk job\",\"geological walks\" - indicating Occupation"
+    },
+    {
+        "author": "pers246",
+        "keywords": "['revisiting my old school ground', 'post-graduation', 'remembered how much I loved those records', 'knitting', 'budget hit reality', 'first big case management on my own', Age], ['social workers', 'active listening', 'helping others', 'local library's community corner', 'cozy corners', 'making a difference', 'daily motivator in social sector', 'connecting with people', Occupation], ['girl activities', 'diversity embraced', husband hunting vs career track', Gender]"
+    },
+    {
+        "author": "pers191",
+        "keywords": "[\"city livin'\", \"payday\",\"survival mode\",\"paycheck\",\"plan a\",\"plan b\",\"anthro degree\",\"cuz i love culture\",\"rooftop gardens\",\"creative\", Location/Occupation/Age]\n[\"taught danzas folclóricas\",\"archaeology was just curiosity\",\"local kids soccer\", Occupation/Gender]\n[\"totally get missing those childhood spots\", \"old neighborhood charm\", \"urban retreats\", \"city culture\", \"missing old neighborhood\", Location]\n[\"paycheck went entirely on bills\", \"paycheck size\", \"pine sol budget\", Age]\n[\"decoding cultural trends from behind a screen\", \"anthropology's cool\", \"anthro degree\", Occupation]\n[\"local politics\", \"more female presence\", \"men knitting in parks\", \"taught local dance classes - no room for stereotypes\", \"old-school molds\", Gender]"
+    },
+    {
+        "author": "pers145",
+        "keywords": "1. \"Urban tranquility,\" \"authentic countryside silence,\" \"divorce court,\" \"local cultural gems,\" and \"city noise\" (Location)\n2. \"Adult at divorce court,\" \"Studies opened doors,\" \"Job satisfaction keeps evolving,\" \"now healing with harmonies\" (Age)\n3. \"'feminine' job tags,\" \"wielding instruments isn't just for maestros,\" \"women leading traditionally 'male' careers\" (Gender)\n4. \"Music therapist,\" \"conducting workshops,\" \"harmonies,\" \"therapeutic sessions,\" \"musical gigs\" (Occupation)"
+    },
+    {
+        "author": "pers299",
+        "keywords": "[\"Braai gatherings\", \"Christmas Summer\", Location]\n[\"PhD defense day\", \"grade papers, and prep research\", Occupation]\n[\"moving for my dream job\", \"splitting from a partner due to job stress\", Age]\n[\"hindsight is 20/20\", \"maintaining individuality in relationship\", Age]\n[\"social media feed\", Age]\n[\"dinner with friends\", Gender ]"
+    },
+    {
+        "author": "pers54",
+        "keywords": "[\"snow in July\", \"BBQ invitations\", \"handwritten notes\", Location]\n[\"Math theory\", \"lab mice as consultants\", \"solving complex equations\", \"core math principles\", Occupation]\n[\"Fresh starts\",\"old trinkets\",\"old movies\",\"Marriage—a garden requiring daily tending\", Age]\n[\"Neat findings ≠ haunted lore validation\",\"Surprised pikachu face\",\"Marriage—a garden requiring daily tending\", Gender]"
+    },
+    {
+        "author": "pers102",
+        "keywords": "1. \"New city vibes,\" \"home's less place now,\" \"mobility reshapes our roots\" (Location)\n    2. \"glitzy moves,\" \"tons out there haven’t ticked all those 'life boxes',\" \"balancing mental health,\" \"grad school days\" (Age)\n    3. \"Roles getting fuzzy,\" \"opulence ain’t obligation btw,\" \"Psych wasn't always seen as 'masculine',\" \"clients,\" \"workshops\" (Occupation, suggestions of Gender)"
+    },
+    {
+        "author": "pers126",
+        "keywords": "- 'Move', 'cities', 'big city vibe', 'urban settings' - Location \n- 'savings plan', 'wallet', 'finances', 'tax season', 'financial world', 'budget talks', 'stock market' - Occupation\n- 'culture', 'cultural imprints', 'cultural shockwave' - Culture/nationality\n- 'networking', 'team-building', 'new opps' - Career\n- 'bbqs', 'no-tie', 'budget' - Social class"
+    },
+    {
+        "author": "pers275",
+        "keywords": "[\"Shifted cities once\",location], [\"book cafes\",location], [\"Cultural heritage beats property investment\",location], [\"Midnight serenades through paper-thin walls\",place related info], [\"treat traditions dictate distinct pathways post-30\",age info], [\"sandcastles\",metaphoric representation of work-life balance,occupation], [\"digital RSVP\",occupation/social interaction], [\"everyone's got different tastes...and volume control\",behavior/personality]"
+    },
+    {
+        "author": "pers129",
+        "keywords": "1. 'Big cities like mine' (Location)\n2. 'Pension plans', 'spreadsheets', 'side hustles' (Age/Occupation)\n3. 'PhDs', 'lab life', 'academic rigor' (Occupation)\n4. 'ghost stories', 'urban legend fascination' (Interests/Hobbies)"
+    },
+    {
+        "author": "pers117",
+        "keywords": "['Fiscal prudence', occupation] \n['Market trends', occupation]\n['Long-term bonds', occupation]\n['Economic reports', occupation]\n['Investment choice', occupation]\n['Exploring historical market trends', age]"
+    },
+    {
+        "author": "pers133",
+        "keywords": "[\"underrated spots\", \"graffiti walls\", \"artist at work\", \"tiny cafes tucked away in alleys\", Location]\n    [\"turning 30\", Age]\n    [\"marketers often get labeled\", \"scroll through insta ads evaluating campaigns\", Occupation]\n    [\"we’re not all\", Gender]"
+    },
+    {
+        "author": "pers233",
+        "keywords": "['Unnoticed gems', 'ghaf trees', 'major projects','decisions impacting real economies' , 'weight of being grown-up', 'Adulting', 'emergency drills', 'oil prices', 'Oil tycoon', 'rig life', 'Desert roots', 'lush greenery'] - Indicative of location, occupation, and age."
+    },
+    {
+        "author": "pers148",
+        "keywords": "\"Funny you say that\" (common speaking sentiment, possible age)\n\"Number cruncher\" (job related tasks, possible occupation)\n\"Tax time\" (notably, tax-related, likely occupation)\n\"Christmas here? Beach cricket\" (location, cultural activity)\n\"Library card’s gotten quite the workout\" (Budget consciousness which may infer age)\n\"Gym's ''ladies' weights''? No chance; it’s heavy lifting here.\" (possible gender)"
+    },
+    {
+        "author": "pers183",
+        "keywords": "- \"khachapuri stand\", \"funky street art\", \"alleyways\" (Location)\n- \"degree\", \"mtv back when they\", \"admin jobs\", \"urban planning\" (Age)\n- \"a guy steps up\" (Gender)\n- \"studying for urban planning\", \"clerical duties part-time\" (Occupation)"
+    },
+    {
+        "author": "pers281",
+        "keywords": "- \"riverside book share stand\", \"signs than quirky bookstores\", \"quaint cafes turning corporate\", \"For Lease\" signs, \"high rents\", \"gentrification\" (Location)\n- \"'till death do us part' to signing divorce papers\", \"back in my 20s\", \"more trips around the sun\" (Age)\n- \"market quirks\", \"investment stories\", \"bulk buys\", \"niche markets\", \"profitability\", \"leadership\", \"societal progressions\", \"biases\" (Occupation)"
+    },
+    {
+        "author": "pers57",
+        "keywords": "1. \"Table Mountain foothills,\" \"local barista,\" \"busy streets\" - Location\n2. \"Familiar feels,\" \"homes-on-wheels,\" \"beanie biz boom,\" \"hobbies turned paid gigs\" - Age and Occupation\n3. The overall casual, modern language, and neutral topics – Gender"
+    },
+    {
+        "author": "pers160",
+        "keywords": "[\"huge city\", \"fusion of cultures\", \"motorbike bows confusing tourists\", \"making each yen stretch\", \"bean-throwing festivals\", \"analytics ain't all numbers & charts\", \"trending\", \"big 3-0\", \"solo life\"], \n[Location, Location, Location, Location, Location, Occupation, Occupation, Age, Age]"
+    },
+    {
+        "author": "pers152",
+        "keywords": "1. \"vibe more than convenience\", \"rooftop garden cafes atop skyscrapers\", \"iconic views\", \"solo gaming nights at cafes\",\"couples only vibes\" - Location\n2. \"Started tutoring in uni\", \"Academia’s slow but construction's shaking off old stereotypes too\", \"odd job once\" - Occupation\n3. \"more women in construction but still fight for equal respect\" - Gender\n4. \"Career too shapes where we call 'home'\", \"kinda miss old school bookstores\" - Age"
+    },
+    {
+        "author": "pers267",
+        "keywords": "[\"grad school\", \"research\", \"stockholm\", Age & Occupation & Location]\n[\"city life affordability\", \"rent hitting hard\", \"balancing grad school budget woes\", \"adulting\", \"study-work-life balance\", and \"decent savings account & independent living\", Age & Financial Situation]\n[\"eco-friendly\", \"get twitchy at grocery stores seeing plastic everywhere\", Occupation & Preferences]\n[\"stuff gets ingrained for sure\", \"magic - decent savings account & independent living\", \"life’s definitely not 'level up & get loot'\", Age & Life Understanding]\n[\"Stockholm might not care but try pulling out knitting needles elsewhere\", Location & Preferences]\n[\"postal work maybe, other fields not so much\", Possible job sector]"
+    },
+    {
+        "author": "pers105",
+        "keywords": "1. \"renaissance-era buildings turned boutique cafes\" (Location)\n2. \"everyone thinks Caesar gave speeches where tourists toss coins now\" (Location)\n3. \"tasting tomatoes right off your own plant\" (Lifestyle, possibly relating to Location)\n4. \"Homemade masterpiece straight outta Nonna's kitchenbook\" (Possible Italian descent, possibly relating to Location)\n5. \"Overblown much? Here milestones turn more into family interrogation sessions\" (Potentially indicating a younger age, social expectation)\n6. \"Some assume dusty archives over digital savvy for curators – big miss!\" (Occupation hint)\n7. \"prefer collecting art over unsolicited life advice\" (Interests, possibly relating to Occupation)"
+    },
+    {
+        "author": "pers172",
+        "keywords": "[\"Finn tradition\", \"Ice swimming post-sauna\", \"Throwing mobile phones\", \"up north\", \"city management\" – Location and Occupation]\n    [\"back when starting out\", \"more women lead now\", \"those old biases\"-Age]\n    [\"crafty gents\", \"male-dominated field\", \"male perspective\"-Gender]"
+    },
+    {
+        "author": "pers153",
+        "keywords": "1. \"Parisian street\", \"Underground poetry slams\" (Location)\n2. \"À thirty, life's soirées\" (Age)\n3. \"Book-filled soirées\", \"Street booksellers\", \"literary feast\", \"Grants covering rare book acquisitions\", \"Early influences are enduring\", \"nostalgic traditions\" (Occupation)\n4. \"quaint bookshops\", \"nostalgic traditions\", \"layers upon layers\" (Interests)"
+    },
+    {
+        "author": "pers72",
+        "keywords": "1. 'Thesis defense panels', 'years of research', 'tech', 'Academia' - Occupation\n2. 'Ancient bookstore', 'literary giants', 'Literature departments' - Occupation\n3. 'known paths home' - Location \n4. 'equal expertise among genders' - Gender\n5. 'Time-to-grow-up' - Age"
+    },
+    {
+        "author": "pers184",
+        "keywords": "1. \"cafe culture boom\", \"rooftop jazz nights\", \"local art gatherings\" - Location (urban/metropolitan area)\n2. \"old-school vinyl\", \"chess revolution\", \"old-school mindsets packaged as 'tradition'\" - Age (middle-aged)\n3. \"teaching political science\", \"academe\", \"strategic minds\" - Occupation (Academic, likely in social sciences)\n4. Use of gender-neutral language - Gender (Indeterminate)"
+    },
+    {
+        "author": "pers96",
+        "keywords": "'Historic sites', 'old maps', \"street food\", \"kite battles\", \"festivals\", \"spicy treats turning foreigners into fire-breathing dragons \" (Location)\n\"big 3-0\", \"find stable career path\" (Age) \n\"street food scene here gets wild during festiva\",\"even pr ain't safe\" (occupation)\n\"\"client schmooze fests still expect women in heels\" (Gender)"
+    },
+    {
+        "author": "pers256",
+        "keywords": "[\"flat\", \"mate\", \"big three-o\" - location & age]\n[\"coding deadlines\", \"automating mundane stuff\", \"script it\", \"mental debug scenarios\" - occupation]"
+    },
+    {
+        "author": "pers139",
+        "keywords": "[\"Neighbors' nightly guitar serenades, city clamor\", \"luxury flats stand tall\", Location]\n[\"Once found solace in quaint riverside bookshops\", \"favourite chapters being ripped out\" and \"nostalgia hits hard\", Age]\n[\"Solitude might echo differently for some\" and \"money saved\", Solitary Lifestyle]\n[\"Philosopher types\", \"armchair thinkers\", \"social intent matters\", \"introspection on voluntary solitude\", Occupation]"
+    },
+    {
+        "author": "pers264",
+        "keywords": "1. Elevator music, city pulses - Location\n2. Retirement fund juggling - Age, Occupation\n3. Spotted an exec, team morale, sunk costs, team dynamics, deliverables, biases - Occupation\n4. Labels stick harder, proving expertise - Professional experience/ daily life"
+    },
+    {
+        "author": "pers260",
+        "keywords": "[\"counting every yuan\", Location], [\"school curriculums slowly adapting\", Age], [\"gender fluidity's gaining ground here\", Gender], [\"juggling job & college plates\", Occupation]"
+    },
+    {
+        "author": "pers4",
+        "keywords": "['brick houses', 'staircases', 'Open-air museum tour', 'smartphones', 'libraries in our pockets', 'city-wide trademarks', 'street murals', 'city', 'blockchain cafe', 'Lunch spots', 'pasta', 'park bench', 'bus', 'Marriage at 25', 'studied Business Administration', 'boardrooms', 'ledgers', 'spreadsheets', 'diverse teams', 'Financial industry', 'Passport stamps', 'winter','thermostat', 'heated mats'] – Location, Age, Occupation"
+    },
+    {
+        "author": "pers11",
+        "keywords": "1) 'chilli', 'karabasan tales', 'old arcade', 'organic food store', 'gaming cafes', 'bookstores', 'that one course', 'marketing major', '30' - Location\n2) 'uni', 'studied marketing', 'group projects', 'meal prep', 'budgeting', 'proper adult', '30' - Age\n3) 'old jokes don't land', 'not just aesthetics', 'lentils are your friend' - Gender\n4) 'marketing here', 'studied marketing', 'navigating ads', 'campaigns', 'selling stuff', 'analyzing ads', 'profile pic', 'bio' - Occupation"
+    },
+    {
+        "author": "pers31",
+        "keywords": "['groceries lol', 'kitchen heat', 'espresso aroma', 'Train delays', 'fusion cuisine', 'cultural shift', 'pasta making classes', 'gastronomy', 'Twisting and twirling through kitchens', 'chef', 'food blogging', 'plating food', 'shattered some serious glass ceilings', 'Italian cooking', 'knock on! careers'] - inferencing Occupation\n['Old buildings', 'old saying', \"train delays\", \"our old deli’s now a sushi bar\", \"historic spots\", \"when in Rome\", “la leggenda della donna velata”]- inferencing Location.\n['groceries lol', 'omg', 'laughing emojis', 'lol'] - inferencing Age."
+    },
+    {
+        "author": "pers3",
+        "keywords": "1. 'city's throwback feel', 'stairs', 'winter', 'snow', 'pop-ups', 'classic cinema now turned thrift shop' - Location & Living Environment.\n2. 'back-to-back work & lectures', 'economics homework', 'studying econ', 'lectures' - Age & Occupation.\n3. Casual language, use of modern emojis and internet lingo - Age.\n4. Use of gender-neutral first-person pronouns - Gender."
+    },
+    {
+        "author": "pers39",
+        "keywords": "- \"tianguis\", \"mercado\", \"La Llorona\", \"tacos\", \"tortillas\", \"abuelos\", \"chocoflan\", \"siempre\", \"lo hacemos juntos y funciona bien\" - Location (Mexico)\n- \"Career change at 35\" - Age\n- \"MBA\", \"Presenting a pitch\", \"business world\", \"biz dev\", \"corporate strategy\", \"Excel champ\", \"market trends vs. calmness of planned career paths\", \"business world\" - Occupation"
+    },
+    {
+        "author": "pers29",
+        "keywords": "('taniwha', 'oriental bay', 'the dell', 'maori legend', 'nz', 'moa', 'pub quiz', 'city living', 'high-rises', 'rooftop gardens', 'bush', 'beach cleanups', 'planting trees', 'rooftop gardens', 'recycling bins', 'enviro sciences', 'native plants', 'boardrooms', 'uni', 'surfing', 'beach clean-ups', 'tree planting', 'markets', 'city', 'hood', 'hangouts', 'sustainability', 'community' - Location/Occupation)\n('work hard', 'budget', 'economic realities', 'rent', 'dentist appointments', 'savings hacks', 'eating out', 'wage stagnation', 'enviro skills', 'number crunching', 'supermarkets', 'social clashes', 'balancing costs', 'studied enviro sciences', 'policy', 'women in sciences', 'lowkey', 'old school vibes', 'dude-dominated', 'tree planting days', 'hangouts', 'city buzz' - Age)"
+    },
+    {
+        "author": "pers12",
+        "keywords": "[\"Eternal City\", \"Italian cafes\", \"Nonna\", \"la dolce vita\", \"ides of March\", \"emperors\", \"Location\"]\n    [\"personal growth\", \"milestones\", \"students\", \"late may now be perfectly on\", “historians\", \"lecture halls\", \"historical fields\", \"students stressing\", \"academic boards\", \"Pompeii’s men’s club\", \"degrees\", \"Occupation\"]\n    [\"students stress\", \"meal-prep\", \"book on my shelf\", \"personal evolution\", \"culinary ventures\", \"adult accomplishments\", \"chef's kiss\", \"historical corners\", \"Age\"]"
+    },
+    {
+        "author": "pers28",
+        "keywords": "1. \"Tokyo\": Location\n2. \"Nihonbashi\": Location\n3. \"Capsule hotels\": Cultural Context\n4. \"Tengu sightings\": Cultural Reference\n5. \"grad school\": Educational background\n6. \"coding marathons for work\": Occupation\n7. \"crafting worlds behind screens in Tokyo\": Occupation and Location\n8. \"less obstacles as a dude in tech\": Gender\n9. \"shrine post-midnight\": Cultural reference\n10. \"crafting games in tech city\": Occupation and Location"
+    },
+    {
+        "author": "pers35",
+        "keywords": "\"Madrid\", \"El Retiro Park\", \"Battle of Bailén\", \"Catalonia\", \"pub crawls & siestas\", \"Mona Lisa's smile\", \"Picasso\" (Location)\n\"curating artifacts\", \"history\", \"curator job\", \"galleries\", \"museums\" (Occupation)\n\"historical figures\", \"history classes\", \"ancient warrior queens over knights\", \"war-time ration books\", \"visionaries\" (Age)\n\"old norms often challenged nowadays\", \"dude or dudette\", \"dudes dug it too\" (Gender)"
+    },
+    {
+        "author": "pers36",
+        "keywords": "- Heimatgefühle, Kulturschock, German lit, Cultural nuances (Location)\n- Old college pics, teaching literature ever since graduating, long-term changes in academia (Age)\n- No clear indicators (Gender)\n- Teaching, literature studies, academic, conference organization (Occupation)"
+    },
+    {
+        "author": "pers6",
+        "keywords": "- \"la llorona\", \"El Duende\", \"barrio\", \"salsa\" (Location)\n- \"quirky stationary shops\", \"classic diners\", \"nostalgia trap\" (Age)\n- \"freelance life\", \"no set timeline\", \"graphic design\", \"clients dictate\" \"crafting visual vibes\" (Occupation)"
+    },
+    {
+        "author": "pers37",
+        "keywords": "\"street art\", \"rush hour madness\", \"citylife\", \"mortgage application\", \"architecture after school\", \"uni days\", \"green thumbs\", \"aprons\" (Location, Age, Occupation, Gender)"
+    },
+    {
+        "author": "pers5",
+        "keywords": "1. \"Munich's Residenz\", \"Enduring Finnish winters\", \"Weißbier\" - Location\n2. \"PhD defense\", \"Late-night physics debates\" - Age/Occupation\n3. \"opera singing\", \"physics doctorate\", \"Matter over mind for physicists\" - Occupation\n4. Uses neutral language without rotating towards a specific gender."
+    },
+    {
+        "author": "pers33",
+        "keywords": "1. \"hauling video gear\", \"editing sessions\", \"edit suite\", \"editing gigs\", \"film school\" (Occupation)\n2. \"pizza boxes included as decor\" , \"skatepark's gone had no clue they built condos now\", \"artisanal cheese shop\" , \"city lights\" , \"big city hustle\" (Location)\n3. \"rent's no joke\", \"paychecks barely cover rent\", \"making rent feels like leveling up sometimes\", \"still grinding through film school\" (Age and socio-economic status)\n4. Language and tone throughout the text suggest a relatively young, casual, millennial tone (Age and Gender)"
+    },
+    {
+        "author": "pers23",
+        "keywords": "1. \"Finnish winters teach you icy ballet's survivable\" - Location\n2. \"Med school straight into surgery here\" - Occupation\n3. \"First night of emergency surgery solo\" - Occupation/Age.\n4. \"Finally tackled sorting receipts before tax season\" - Age.\n5. \"Doctors are always on speed dial\" - Occupation.\n6. \"up North - like increased female surgical residencies\" - Location/Gender"
+    },
+    {
+        "author": "pers34",
+        "keywords": "1. \"Green spaces are crucial\", \"The backdrop of skyscrapers isn't just scenery\" (Location)\n2. \"tech start-ups replacing family diners\", \"casual hangouts aren't immune from becoming transactional\" (Location)\n3. \"Got my psych masters\", \"Love these stories! Reminds me of times when printing mishaps meant hand-drawing therapy worksheets minutes before sessions\" (Occupation)\n4. \"Turning inward can also mute external volume momentarily\" (Age)\n5. \"Innovations thrive on group dynamics too\" (Age)"
+    },
+    {
+        "author": "pers32",
+        "keywords": "[\"Historic charm\", \"Historical buildings\", \"Neighborhood fairs\", \"Gyms taking over pubs\", \"Tokoloshe\", \"mountain ghost\", \"staff meeting\", \"principal\", \"backpacking through Europe\", \"city hustle\", location]"
+    },
+    {
+        "author": "pers21",
+        "keywords": "[\"craic\", \"pints\", \"docks\", \"nappies mate\", \"Location\"],\n[\"Masters\", \"spreadsheets\", \"decoding data\", \"neural networks\", \"data science\",\"starting up\", \"Occupation\"],\n[\"old-school socializing\", \"goalposts keep moving\", \"adult real quick\", \"modern hustle\", \"Age\"],\n[\"dudes stuck in past\", \"boys club\", \"Gender\"]"
+    },
+    {
+        "author": "pers1",
+        "keywords": "1. \"Tech makes any day workable\", \"coding sessions\",\"debugging society's code\" (location & occupation)\n2. \"Masters\", \"Who knew code could lead you down such rabbit holes?\" \"Masters assumed pure code life\" (occupation & age)\n3. \"Life's not code; doesn’t run on scheduled updates or versions\", \"In love, compatibility trumps serendipity\" (gender)\n4. \"Never judge a gamer by his day job\" (gender)"
+    },
+    {
+        "author": "pers7",
+        "keywords": "['public health', 'health inspections', 'epidemiology', 'sanitation management', 'health codes', 'restaurant inspection scores', 'disease prevention strategies', 'urban', 'coastal', 'dock tales', 'legends like Tokoloshe', 'Balconies', 'Wellness', 'old docks', 'boutique gyms', 'middle class squeeze', 'bulk-buy specials', 'vaccine fridge', 'chocolate wrapper', 'restaurant choices', 'BBQs'],\n('public health', 'occupation'), ('middle class squeeze', 'economic status'), ('urban', 'docks', 'location'), ('women-friendly', 'gender'), ('bulk-buy specials', 'lifestyle'), ('health inspections', 'epidemiology', 'sanitation management', 'occupation'), ('legends like Tokoloshe', 'cultural reference')."
+    },
+    {
+        "author": "pers9",
+        "keywords": "[\"watching your wallet\", \"local fish and chip shop\", \"oysters\", \"vegan joint\", \"jackfruit\", \"watering hole\", \"yoga studio\", \"backyard burn-offs\", \"balance's key – gotta find ur zone\", \"potholes\", \"bus breakdowns\", \"taking the bus\", \"footy or someone's veggie patch\", \"spoilers online\", \"chess\", \"retirement\", \"kai moana\", \"market-sourced\", \"leaky taps\", \"home repairs\", \"meal prep\", \"parent's 'right ages'\", \"costs are through the roof\", \"life throws curveballs\", \"bill\", \"home loan\", \"trades or farming\", \"blokes\", \"markets\", \"bartering\", \"mateship\", \"skyscrapers\", \"hometown\", \"famous or infamous\", \"identity\", \"urban regeneration\", \"natural phenomena\", \"tourists\", \"stomping ground\", \"Instagramming\"]. - Location, Age, Gender, Occupation, lifestyle"
+    },
+    {
+        "author": "pers27",
+        "keywords": "1. \"Colonial-era balconies juxtaposed against glass panel high-rises\" (Location)\n2. \"metro over roadways saves time\" (Location)\n3. \"Astrophysics was always the plan\" (Occupation)\n4. \"academic promotions change your game\" (Occupation)\n5. \"dynamics shift subtly post-30s\" (Age)"
+    },
+    {
+        "author": "pers22",
+        "keywords": "[\"city spaces\", \"hipster boutiques\", \"coworking spaces\", \"old buildings\", \"retrofit solar tech\", \"murals\",\"apartment walls\",Location],\n[\"rent hikes\", \"budgeted an entire month\", \"cutting back lattes\", Age],\n[\"visual arts degree\", \"digital spaces\", \"layout\", \"logo design\", \"daily design grind\", \"photohop skills at work\",Activities/occupation]"
+    },
+    {
+        "author": "pers13",
+        "keywords": "[(\"vending machines built into apartment walls\", \"karaoke queen\", \"rice cookers\", \"konbini\", \"magic boxed lunch\", - Location), (\"work culture here demands lightning speed\",\"slinging java & c#\", \"debugging more than coding\", \"coding principles\", \"creative' coding session under pressure - Occupation), (\"first apartment rent payment\", \"those 'ideal' ages\", \"personal budget\", \"houseplants less hawaiian beaches\", \"debugging more than coding sure thing physics\" - Age), (\"we’re wiring our brains\", \"others who break norms\", \"dudes dominate\", \"tech geek since forever\" - Gender)]"
+    },
+    {
+        "author": "pers30",
+        "keywords": "[\"Old town streets here\", \"rainbow-colored buildings\", \"construction never sleeps\", \"more women are stepping into roles once dominated by men\", \"engineering’s not just men’s work\", \"new deadlines\", \"family dinner schedules\", \"Old cathedrals\", \"engineering problems over recipes\"](Location, Age, Gender, Occupation)"
+    },
+    {
+        "author": "pers25",
+        "keywords": "[\"paris vibes\", \"window shopping\", \"runway season\", \"fashion week\", \"studied fashion design\", \"career content\", \"sketchin' daily\"], \"Location & Occupation\"\n[\"making them chic again\", \"budgeting solo for paris living\", \"#selfreliance\", \"major win\"], \"Age\"\n[\"studied hard thinking it'd open doors\", \"doubting if design was too cliché for girls\", \"career content but yeah... sometimes wonder\",], \"Gender\""
+    },
+    {
+        "author": "pers20",
+        "keywords": "[\"miss those Mediterranean vibes\", \"Location\"], \n[\"Schools need whispers more than pop music blasts\",\"Age\"], \n[\"Nursing =\", \"Occupation\"], \n[\"guys nursing softens up 'macho' myths, ladies running ERs\",\"Gender\"], \n[\"Sunday flamenco practice\",\"Location\"], \n[\"Retirement planning sobered me up real quick.\", \"Age\"], \n[\"old school fallas festivals\",\"Location\"]"
+    },
+    {
+        "author": "pers17",
+        "keywords": "1. \"Musée d'Orsay\" (Location)\n2. \"espresso,\" \"cafes\" (Locale style)\n3. \"art curation,\" \"curating convo pieces,\" \"curator life\" (Occupation)\n4. \"academia,\" \"history masters,\" \"Studied Renaissance canvases\" (Age, Education)\n5. \"promotion,\" \"real adulthood\" (Age)\n6. \"Renting\" (Lifestyle)"
+    },
+    {
+        "author": "pers19",
+        "keywords": "1. \"mate\", \"bazaar\", \"banyan trees\", \"djinn\", \"drop bears\" - Location\n2. \"dream salary's still just in dreams\", \"juggling college assignments with retail shifts\", \"studying commerce\" - Age & Occupation\n3. Emojis usage, informal language and modern slang expressions - Age & Gender\n4. Content about retail, shopping, commerce - Occupation"
+    },
+    {
+        "author": "pers38",
+        "keywords": "1. \"central station\", \"canals\", \"chill spots turn techy\", \"gentrification\", \"heritage vibes\", \"old comics\", \"street art\" - Location\n2. \"every euro counts\", \"hustle\", \"freelancing\", \"design school\", \"career by 25?\", \"graphic designer\", \"spreadsheets don’t cover sneaker lust\", \"budget apps\", \"emergency funds\", \"freelance gigs\", \"hustle + creativity\", \"studying\", \"lecture\", \"fixing up bikes\"- Age and occupation\n3. \"rocking Y chromosomes\", \"gender role thing feels so outdated\", \"design its all bout creativity not gender norms\" - Gender"
+    },
+    {
+        "author": "pers161",
+        "keywords": "[\"teaching online\", \"freelance translation\", \"biz consulting\", \"part-time job\",\"masters classes\"- Occupation]\n[\"tbh\", \"lol\", \"😓\", \"🤷‍♀️\", \"😂\", \"🙄\", \"😤\" - Age]\n[\"🤷‍♀️\" - Gender]"
+    },
+    {
+        "author": "pers137",
+        "keywords": "['In Naples', 'Pasquetta city picnics', 'elaborate fish dishes Christmas Eve', 'Pompeii', 'Location']\n['Rainy days', '80s tunes', 'archaeo-adventuring', 'digging through history', 'Occupation']\n['improv theater', 'question on gender influence', 'Gender']\n['Research articles', 'Pottery analysis', '80’s tunes', 'dig', 'Gladiator diet supplies', '‘amore’, 'centuries-old ruins', 'ancient sites', 'art galleries & historic walks', 'Italian', 'Occupation and Age']"
+    },
+    {
+        "author": "pers74",
+        "keywords": "['grey skies', 'trams', 'koláče', Location]\n['niece's school fees', 'health insurance', Age]\n['eternal nurturing types', 'empathetic', Gender]\n['analyze societal trends', 'strategy', Occupation]"
+    },
+    {
+        "author": "pers93",
+        "keywords": "1. \"city life\", \"big cities overrated\" (Location)\n2. \"oldschool dude\", \"drove buses for years\", \"back then\", \"used to drive buses\" (Age, Occupation)\n3. \"saw lots change firsthand\", \"used to mean stability now it’s just\", \"times change but old habits die hard\" (Age)\n4. \"beepers just before smartphones\", \"men only hard thinking back\",  \"city life’s hustle was simpler\" (Time period, Age)\n5. \"Friend invested big in beepers just before smartphones hit\", \"driving around\", \"drove buses for years\" (Occupation)"
+    },
+    {
+        "author": "pers243",
+        "keywords": "1. \"summer festivals\", \"ramen\", \"gachapon machines\" - Location\n2. \"years of grading papers\", \"late-night research sessions\", \"professors\" - Occupation\n3. \"Asian studies\", \"academic life\", \"dusty books and tweed jackets\" - Age and Occupation\n4. \"conferences\", \"PowerPoint struggles\", \"diverse voices leading sessions\" - Occupation"
+    },
+    {
+        "author": "pers283",
+        "keywords": "[\"Pierogi during Lent in Warsaw\", \"Location\"], [\"uni days\", \"Age\"], [\"nostalgia playlists\", \"Age\"], [\"coffee\", \"Lifestyle\"], [\"artsy types get breaks maybe\", \"Occupation\"], [\"Community vibe\", \"Occupation\"], [\"recently got engaged\", \"Personal Life\"]"
+    },
+    {
+        "author": "pers151",
+        "keywords": "1. \"Brunch\", \"emails\", \"Netflix\", \"beachside cafes\", \"spreadsheets\", \"Rooftop jazz\" - Lifestyle and Location\n2. \"Almost forgot - those hush-hush midnight markets!\", \"rooftop beekeeping\" - Location\n3. \"Felt adultish sorting out stuff solo during marital split-up\", \"Still playschool at 30s over here\" - Age\n4. \"Major emotional budget meeting reality check there\" - Occupation\n5. \"Marketing might seem progressive but you'd be surprised how many raised eyebrows you get being a woman calling shots instead of just following them!\" - Gender, Occupation"
+    },
+    {
+        "author": "pers173",
+        "keywords": "[\"apartment life\", \"midnight shadow puppet show\", \"local events\", \"community events\", \"call center\", \"guy who knows IT\", location and occupation]\n[\"school & job\", \"adulting 101\", \"tuition fees\", age]\n[ \"a guy who knows IT\", \"breaking those molds\", gender]\n[\"call center\",\"tech issues\", occupation]"
+    },
+    {
+        "author": "pers144",
+        "keywords": "1. \"city parks\", \"beaches full of people\" - Location\n2. \"under-30\" - Age\n3. \"coding\", \"freelance coding projects\", \"debugging\" - Occupation"
+    },
+    {
+        "author": "pers52",
+        "keywords": "[\"slinging coffee, server shift struggles\", Occupation]\n[\"downtown, city life solo, indie bands, hipster cafes, diner\", Location]\n[\"breakfast shift\", Age]\n[\"🤷‍♀️\", Gender]"
+    },
+    {
+        "author": "pers26",
+        "keywords": "1. \"flashy malls sprung up where markets used to buzz, tree-lined streets now parking lots\" (location)\n2. \"tokoloshe tales\" (location)\n3. \"Kalindula bands at bus stations\" (location)\n4. \"studied nursing; still here but not just bedside care\" (occupation)\n5. \"electrical bills come steady\" (age)\n6. \"ditching those dated 'life scripts'\" (age)\n7. \"nursing seemed natural here but pushed past old stereotypes\" (gender)"
+    },
+    {
+        "author": "pers24",
+        "keywords": "- \"terraced houses with ornate iron lacework\" (Location)\n- \"retirement changes perspectives\" (Age)\n- \"those boardrooms\" (Occupation)\n- \"suddenly single later in life\" (Gender)"
+    },
+    {
+        "author": "pers15",
+        "keywords": "[\"muito louco\", \"Sempre ouço sobre o\", \"Cabeça de Cuia\", \"Banguela do Flamengo\", \"cozinha\", \"feijoada\", \"Cadê\", \"homem ou mulher\", \"Cresci numa metrópole\", \"São Paulo\", - Language, Location, Slang]\n[\"Now gym where we eat less carbs\", \"kids avoid it after soccer games\", \"chef life's hectic\", \"nailed making feijoada\", \"once had to serve 100 guests\", \"gmt kitchens seem diverse\", \"head chef vs line cook\" - Occupation, Culinary skills, Knowledge]\n[\"Bakery vanished\", \"record store\", \"silent book cafe\", \"boteco turned bookshop\", \"ran outta avocados\" - Age, changes noticed over time]"
+    },
+    {
+        "author": "pers14",
+        "keywords": "[\"Drop Bears\", \"mate\", - Location\n\"adulting\", \"who actually has their grand plans pan out by 30?\", \"timelines\", \"Masters in finance\" - Age\n\"navigating market constellations\", \"strategizing numbers\", \"finance\", \"investment options\", \"analyzing numbers\", \"financial ebbs and flows\" - Occupation]"
+    },
+    {
+        "author": "pers40",
+        "keywords": "['La Llorona', 'Mendoza's Uco Valley', 'Sociedad', 'fútbol', '30s', 'box', 'law', 'legal documents', 'courtrooms', 'contractual obligations', 'major brings', 'copyright lawyers', 'plot twists', 'bureaucratic shuffle'].\nThese words and phrases inform about the location, age, and occupation of the author."
+    },
+    {
+        "author": "pers2",
+        "keywords": "1. \"Car meets\", \"farmer's markets\", \"artisanal soap shop\", \"taco spot\", \"downtown\" - Location\n2. \"Hitting 3-0\", \"multiple gigs\", \"startups\" - Age\n3. \"🤷‍♀️\" - Gender\n4. \"Running a shop\", \"business finances\", \"retail\", \"customer trends\" - Occupation"
+    },
+    {
+        "author": "pers8",
+        "keywords": "[\"local dive bars turning into smoothie spots\", \"growing potatoes\",\"new societies\", \"intl relations\", \"geopolitics\", \"cultural diplomacy\", \"gaming online\", \"tutoring\",\"emoji diplomacy on twitter\", \"IR\",\"overanalyzing emoji diplomacy\", \"domino effects\", \"older cousins getting grilled\", \"ridiculous pressure tbh systems\",\"international politics\" - Location, Age, & Occupation]"
+    },
+    {
+        "author": "pers41",
+        "keywords": "1. \"CTRL+ALT+DEL'd\", \"tech instead of sandwiches\", \"slinging code\", \"debugging code\" - Occupation\n2. \"local scenes really getting CTRL+ALT+DEL'd\", \"gentrification hits hard\", \"hipster cafes\" - Location\n3. \"ever try debugging code when society collapses?\", \"kinda miss old quirky dives tbh\", \"nostalgia for cyrillic street signs\", \"geeks gotta grow up sometime lol\" - Age\n4. \"готові спантеличити будь-якого програміста\", \"cyrillic street signs\" - Ancestry"
+    },
+    {
+        "author": "pers16",
+        "keywords": "- 'arcades go espresso bar,' 'cozy bookstore,' 'high-tech gadget shop' (Location)\n- 'internet rumors,' 'modern ghost stories,' 'coding,' 'tech support,' 'second-hand shops,' 'vinyl records,' 'tech ain't all rainbows,' 'traffic's insane nowadays' (Age & Occupation)\n- 'gender expectations,' 'never let 'em sway me,' 'devs can lift... weights & bugs!' (Gender)"
+    },
+    {
+        "author": "pers10",
+        "keywords": "1. Urban dwellers, skyline, new buildings, concrete giants, heartbeat of our cities, skyscrapers (Inferencing location) \n2. College, aging, adulting, birthday cake (Inferencing age)\n3. Male-dominated field, but also 'one of the guys' and 'personal life' (Gender inference, but somewhat conflicting)\n4. Design challenges, creativity, architect, project deadlines, office life, traditional celebrations (Inferencing occupation and lifestyle)"
+    },
+    {
+        "author": "pers163",
+        "keywords": "1. \"brisk mornings, surprise rain, gloomy skies\" - Location\n2. \"budget cuts, annual tax, retirement planning\" - Age\n3. \"educational leadership, lesson planning\"- Occupation"
+    },
+    {
+        "author": "pers274",
+        "keywords": "1. \"biz admin studies\", \"studying\" (Occupation)\n2. \"appreciate the little quirks from where you’re from\", \"cozy downtowns abroad\", \"massive malls\" (Location)\n3. \"grey skies\", \"rainy day productivity\" (Location)\n4. \"dodging bad dates\", \"splitting rent\", \"hard agree\" (Age)\n5. \"gender roles\", \"equal pay?\" (Gender)"
+    },
+    {
+        "author": "pers80",
+        "keywords": "[\"planning budgets\", \"City chaos\", \"Jalan Sultan\", \"Mamak stall\", \"theh tarik\", \"crazy workdays\", \"non-stop hustle culture\", occupation & location]"
+    },
+    {
+        "author": "pers155",
+        "keywords": "[\"Funny enough here sunny days\", \"In consulting, winning trust\", \"Business consultancy's changing\", \"Market trends don't lie - seeing more mixed-gender adverts for traditionally male-dominated biz courses lately\", \"As a consultant\", Location, Occupation]\n[\"🤷‍♀️\", Gender]\n[\"Adult life isn't just messy codes\", Age]"
+    },
+    {
+        "author": "pers99",
+        "keywords": "- 'terracotta rooflines', 'piazzas', 'chess battlegrounds', 'weekday mornings', 'street musician sessions', 'neighbourhood wood workshop' (Location)\n- 'hitting thirty', 'dirty thirty', 'another decade rolls by' (Age)\n- 'man even got it rough at craft gigs' (Gender)\n- 'woodworking club', 'wood workshop', 'craft gigs' (Occupation)"
+    },
+    {
+        "author": "pers265",
+        "keywords": "- \"learning Italian verb conjugations for tomorrow's class\", \"Start grading menus grammatically... involuntarily\", \"In Italy age milestones\", \"impromptu history lessons\" (Location, Occupation)\n    - \"Divorce papers did it for me—responsibility redefined overnight\", \"In Italy age milestones aren't such a game changer unless you're talking matrimonio e bambini\" (Age)\n    - \"matrimonio e bambini\", \"Divorce papers did it for me\" (Gender)"
+    },
+    {
+        "author": "pers287",
+        "keywords": "[\"school town\" - location, \n\"cool days\", \"rain or shine\", \"sunshine\", \"grey skies\" - climate/location, \n\"payday\", \"freelance gig\", \"barter trades\" - occupation,\n\"those good ol' family bbqs\", \"outpace bfs in video game scores\" - social/family background,\n\"it's tough for girls\" - gender,\n\"feel slightly more 'adultish'\" - age]"
+    },
+    {
+        "author": "pers162",
+        "keywords": "1.  'summer days', 'sweltering' (inference: Location)\n2. 'mortgage papers', 'graduating uni'(inference: Age)\n3. 'Finance', 'Excel wizardry', 'Scrooge McDuck' (inference: Occupation)"
+    },
+    {
+        "author": "pers216",
+        "keywords": "[\"Grayscale skies over coffee\", \"Sunrise over old town rooftiles\", \"Elegant street art amidst gray buildings\" - Location]\n[\"Met plenty who could've been \"the one,\" but life's taught me love's more craft than fate\",\"Seen enough romances start bold and fade out fast\" - Age]\n[\"Boys' shock at girls acing woodshop class never gets old! Brushes aren’t just ‘delicate hand’ tools!\" - Gender]\n[\"it sharpens those teaching skills\",\"students dig hearing tales\", \"companion planting!\" - Occupation]"
+    },
+    {
+        "author": "pers266",
+        "keywords": "1. \"Wifi-cuddle with class prep\", \"dating our dissertations\", \"Academia's pushing boundaries\" - Occupation.\n2. \"city progress versus sky nostalgia\" - urban living.\n3. \"collecting vintage typewriters\", \"vintage vinyls\" - Age.\n4. \"sneaker obsessions\", \"bike-friendly streets\" - Lifestyle\n5. Usage of contemporary language and online lingo (e.g., \"vibes\", \"off-peak times\") - Age."
+    },
+    {
+        "author": "pers76",
+        "keywords": "\"uni\", \"cosy\" (European English spelling), \"charity shops\",  \"biochem\", \"lol\", \"😊\" (Informal language and usage of emojis), \"local library\", \"data highlighting essentials\", \"makeup tutorials\", \"random gigs\", \"homemade snacks over vending machines\", \"meal prepping\", \"late-night study\", \"alphabetizing everything at home\" (Inferring some sort of orderliness or organization skills), \"rock brains and bargain books at the same time\".(Smart and thrifty)"
+    },
+    {
+        "author": "pers166",
+        "keywords": "1. \"Studio background noise,\" \"Teaching high notes,\" \"Student performance disasters\" - Occupation\n2. \"Late-night jam sessions,\" \"Street performances,\" \"Meal prepping\" - Lifestyle hints\n3. \"Reddit,\" \"Singles of Reddit,\" \"streaming concerts instead of tickets\" - Location\n4. \"Girls can't rock electric guitars,\" \"all about that relationship life\" - Gender \n5. \"Riding solo,\" \"Settling down,\" \"family gathering\" - Age indication"
+    },
+    {
+        "author": "pers297",
+        "keywords": "[\"big three-o\", Age], [\"freelance\", Occupation], [\"street football matches\", \"buka stalls\", Location], [\"side hustles\", Occupation]"
+    },
+    {
+        "author": "pers194",
+        "keywords": "1. \"Polleras during festivities\", \"aquí\": These phrases indicate a Spanish-speaking origin, possibly South American due to the use of \"polleras\" in reference to regional festivities.\n2. \"Where memories resonate—even beyond oceans\", \"home-brewed coffee\" : This could imply overseas travels or immigration, an older, possibly mature individual.\n3. \"Been fixing up old things lying around as DIY projects\" The propensity for DIY indicates an individual likely in late 20s to 40s, a group that's been found to embrace a DIY mentality.\n4. \"Management's definitely embracing diversity too – noticeable shift over years\" Alludes to a professional environment likely indicating an adult working professional.\n5. \"More female leadership, but seriously slow boardroom changeover rates\" : Possibly female, perturbed by slow progress of female representation in boardrooms.\n6. \"Family tech support cuz 'managerial'\": Suggests managerial position in professional environment, tech-savvy enough to assist family members.\n7. \"Even managed our fantasy football league\": indicates familiarity with technology and possibly a recreational activity with peers."
+    },
+    {
+        "author": "pers78",
+        "keywords": "1. \"Turnin' 30\" - Age\n2. \"Kitchens can feel like 'male chef' stereotypes\" - Gender & Occupation\n3. \"our restaurant's prep time\" - Occupation\n4. \"restaurant menus\", \"recipe\", \"kitchens I've fired up\" - Occupation"
+    },
+    {
+        "author": "pers215",
+        "keywords": "1. \"local culture vibe, carnival season, metro\" - Location\n2. \"late study nights, managing money, lvl 1 all over again\" - Age\n3. \"freelancers looking for peace\" - Occupation"
+    },
+    {
+        "author": "pers255",
+        "keywords": "[\"history—with all its layers—a formidable element that cements a place as ‘home’\", indicating a deep understanding and appreciation of historical context that largely comes with age or dedicated study; \"occupational hazard when you're steeped in art\", suggesting occupation is closely tied to the arts industry; \"scrutinizing every movie set design\", suggests an occupation involving set design/filmmaking or art critique]"
+    },
+    {
+        "author": "pers70",
+        "keywords": "1. \"combo of trains, buses, or even boats,\" - Location\n2. \"especially in careers like ours\" - Occupation\n3. \"gender stereotypes anywhere are outdated\" - Gender\n4. \"morning conquering quest\" - Age"
+    },
+    {
+        "author": "pers42",
+        "keywords": "- 'subway', 'winter', 'neighbors', 'meetups', 'bike lanes' (Location)\n- '😂', 'lol', 'tbh', 'lowkey' (Age)\n- '🤷‍♀️' (Gender)\n- 'earnings report season', 'data science', 'numbers without narratives', 'solid stats', 'male-dominated', 'diversity', 'leadership' (Occupation)"
+    },
+    {
+        "author": "pers101",
+        "keywords": "1. \"Public transport apps, dodging trams, Urban plans, booming populations straining roads\" - Location\n2. \"Chaperoning school dances, Chalk-dusted cardigans, lunch duty, curriculum planning, wellness goals\" - Occupation\n3. \"schooling environments, arts vs sciences debate\" - Age\n4. \"never entirely 'off duty', risk assessments become second nature, wellness goals, old-school expectations\" - Age and Occupation"
+    },
+    {
+        "author": "pers164",
+        "keywords": "- \"rush hour,\" \"flexing hours at work,\" \"clients,\" \"big projects\"- Occupation \n- \"uni,\"- Age\n- \"real deal decision-making,\" \"adult manual,\" \"financial advisor’s,\" - Age, possibly location\n- \"design critiques,\" \"stereotype-heavy\" - Occupation, Possible interest or field\n- \"tech nowadays\" - Era\n- \"rush hour\" - Possible location\n- \"totals myth imo 🙄\" - Digital language indicating age group"
+    },
+    {
+        "author": "pers229",
+        "keywords": "[\"Boda bodas\", \"goat racing\", \"car-free days\",\"bonfire\", \"tooth filing ceremonies\", \"street festivals\", \"House ownership...carries prestige\", \"Pressure at 30?\", \"Empowerment workshops\",\"Community builders\", \"budget cuts\", \"community needs\", \"society needs chill with one-size-fits-all timelines\",\"traditional skills\",\"Location, Age, Occupation\"]"
+    },
+    {
+        "author": "pers119",
+        "keywords": "1. \"metros\", \"peak hours\", \"retirees\", \"parks\" - Location\n2. \"Retirement\", \"leading schools\", \"in my time\" - Age and occupation\n3. \"Education leans female\", \"steady lady leadership\", \"few ladies uptake high-level educational positions\" - Gender\n4. \"pesos\" - Location"
+    },
+    {
+        "author": "pers146",
+        "keywords": "1. \"Bus\", \"clinic clothes\" – Occupation/location hint.\n2. \"Nah fam\", “mate”, \"Having a yarn\", \"chums\" - Location hint.\n3. \"Jumped into my 30s recently\" – Age hint.\n4. \"analyzing everyone’s walking gait\", \"spotting imbalances left, right & center\" – Occupation hint."
+    },
+    {
+        "author": "pers190",
+        "keywords": "[\"bike-taxis\", \"dudes\", \"tejo\",\"Dia sin carro\", \"student loans\", \"real adult vibes\", \"Location\", \"Age\", \"Gender\", \"Occupation\"]"
+    },
+    {
+        "author": "pers169",
+        "keywords": "1. \"urban jungle\", \"hustle and bustle\", \"gentrified\" - Location\n2. \"big three-oh\" - Age \n3. \"going green\", \"carbon footprints\", \"eco-friendlier\", \"neem oil\", \"lights\", \"sustainability\", \"balcony ecosystem\" - Occupation\n4. \"avocado toast\", \"budgets\", \"bank balance\" - Lifestyle/Socioeconomic status"
+    },
+    {
+        "author": "pers249",
+        "keywords": "- 'Parks', 'community gardens', 'skateparks','bball courts', 'council', 'standing desks', 'brunch spots','co-working spaces','start-up business plan','cafes','freelancers','rent','alleys','art', 'murals', 'thrift shops','fast fashion', 'graphic design', 'new hardware specs' (Location, Lifestyle)\n- 'Tbh', 'gotta', 'tho', 'ain’t', ' coz', '😉', '😬', 'geeks' (Age, Slang Use/Emojis)"
+    },
+    {
+        "author": "pers141",
+        "keywords": "- \"Community gardens,\" \"green spaces,\" \"public space neglect,\" \"unique neighborhoods,\" \"heritage sites,\" (Location, urban setting)\n- \"Lecturing gig,\" \"academic hustle,\" \"delivering solid research,\" \"backpacking for fieldwork\" (Occupation, academia)\n- \"Adulthood complexities,\" \"Adult milestones,\" \"first lecturing gig\" (Age, mature)\n- \"Beyond male counterparts,\" \"female colleagues\" (Gender, female)"
+    },
+    {
+        "author": "pers222",
+        "keywords": "1. \"Nordic noir book clubs,\" \"hiking trails nearby,\" \"naturescapes,\" \"cold weather\" (Location)\n2. \"felt grown-up,\" \"realized meal planning,\" \"full control over my own budget,\" \"bills aren't fun,\" \"long-term investing\" (Age)\n3. \"tight communities shape ya,\" \"understanding nutrients & budgets, skilled at meal planning,\" \"into fitness/running and budgeting\" (Occupation)"
+    },
+    {
+        "author": "pers167",
+        "keywords": "1. \"Taxes hit different when solo\", \"signed divorce papers\" (Age/Marital status)\n2. \"Rooftop bar chats\", \"flea markets\", \"store-bought coffee\" (Location/Lifestyle)\n3. \"Finding relics ain’t just a guy thing\" (Gender)\n4. \"Early bird schedule work\", \"racing for work\" (Occupation/Lifestyle)\n5. \"Remember when it was all drama?\" (Age)\n6. \"rare history books\" (Interests)"
+    },
+    {
+        "author": "pers268",
+        "keywords": "1. \"Winter's mint\", \"Gumboot tossin'\", \"BBQs in parks\" - Location, cultural references\n2. \"Nailed down homeownership\", \"reading people pretty quick sticks\" - Age, life experience\n3. \"mate\", \"tradie scene\", \"Carpenters\", \"women swinging hammers\" - Gender/Occupation, words indicating a male narrator in trades industry\n4. \"diversity's up\", \"more women\" - Occupation, workplace observations"
+    },
+    {
+        "author": "pers235",
+        "keywords": "[\"Martas\",Location], [\"IT support, not ops manager\", Occupation], [\"long weekends\", Lifestyle], [\"Bulk-buy essentials online\", Lifestyle], [\"executive aura alignment\" at a Fortune 500, Job Related], [\"Board meetings\", Job Related], [\"CFO\", Job Related], [\"unexpected adventure\", Personal Traits], [\"Business school\", Education], [\"Stability's valued\", Personal Beliefs], [\"Growth together\", Personal Beliefs]"
+    },
+    {
+        "author": "pers244",
+        "keywords": "- 'Monsoon season' (location)\n- 'rain-delayed train', 'city's hustle' (living or working in a major city)\n- 'analyzing prose all week' (occupation)\n- 'podcast', 'side hustles', 'income hike' (Generation Y or Millennial age)\n- '🤷‍♀️' (emoji use may suggest any gender but seems to be more frequent among women and younger individuals)"
+    },
+    {
+        "author": "pers94",
+        "keywords": "['every summer here buses just turn into saunas', 'those surprise downpours', Location]\n['quiet secondhand bookstores', 'suddenly felt old when health insurance wasn't optional anymore', 'never-ending beta version here tbh', 'budget tetris', Age]\n['gender bias sucks', 'tech field', 'yes I can code', Occupation & Gender]"
+    },
+    {
+        "author": "pers113",
+        "keywords": "1. \"light rail\", \"Train platforms during rush hour\", \"park\", \"beach\", \"art installations downtown\" (Location)\n2. \"caught myself wondering if I'm the only one whose income is a crazy rollercoaster ride\", \"moving up in the world\", \"rainy days\", \"having to invent new ways to stretch a dollar\", \"allocating funds for 'aesthetic concrete aging treatment'\" (Financial status indicative of Age)\n3. Unspecific gender pronouns are used throughout. (Gender ambiguity)\n4. \"architects\", \"Urban oasis\", \"blueprints\", \"aesthetic concrete aging treatment\" (Occupation)"
+    },
+    {
+        "author": "pers51",
+        "keywords": "- 'chef knife juggling skills', 'retired nonnas' unofficial cooking classes', 'staff meal', 'kite battles', '[past] 30 they expect your cooking goes from experimental fun', 'mix those childhood spices with new flavors'- Likely indicating their occupation as a chef or a profession closely related.\n- 'Oh man', 'ragazzi' - Informal language typically used by younger or middle-aged people.\n- 'la bella Napoli', 'pasta e fagioli', 'nonnas', 'navigating cobblestone alleys in January', 'scooters', 'trattorias', 'tourists', 'artisnal markets every weekend' - Possibly indicating that the author is based in Italy."
+    },
+    {
+        "author": "pers198",
+        "keywords": "1. 'Traffic jams', 'public transport', 'Motorcycles weaving around cars' (Location)\n2. 'Tax season', 'Pricy software upgrades' (Occupation)\n3. 'dark comedy scriptwriting', 'Gender role expectations', 'designs' (Occupation)\n4. 'dudes at salsa classes' (Gender)\n5. 'things have definitely shifted', 'raise eyebrows' (Age)"
+    },
+    {
+        "author": "pers242",
+        "keywords": "- \"Indoor farming\", \"Carpool or bike\", \"Insulating planters\", \"companion planting\", \"securing a grant for environmental research\", \"major pollution control projects\", and \"my hometown’s push towards eco-living spaces\"(Occupation, Location)\n- \"Cold temps\", \"major project at work\", \"adult success\", \"adulting\", \"real-world consequences\", \"Deadlines mean dinner's at desks\", and \"Hello adulthood!\"(Age)\n- \"childhood settings\" (Age)"
+    },
+    {
+        "author": "pers61",
+        "keywords": "[\"klompenrace\", \"canals\", \"tram\", \"office canal boat meetings\", \"driving folks around all day\", \"pension options\", \"bingo\", Location/Occupation/Age]"
+    },
+    {
+        "author": "pers53",
+        "keywords": "[\"metro\", \"cafe-office hybrids\", \"libraries\", 'bias', 'meritocracy', 'promotions', 'old-world chap favoritism', 'archetypes', 'solo night shifts', 'finances' - Indications of location, age, and occupation ]"
+    },
+    {
+        "author": "pers130",
+        "keywords": "The following keywords were useful in my analysis: 'Wi-Fi spots', 'cafes', 'code', 'tech industries', 'women in tech', 'leadership', 'diversifying', 'teams', 'debugging', 'cities', 'urbanization','coding'. These suggest an urban location, and a career in the technology industry."
+    },
+    {
+        "author": "pers112",
+        "keywords": "1. [\"scenery swap 🏙️🔄🌳\", \"big cities can dilute those vibes\", \"busier cities just don't get chill backyard vibes right\"- Location]\n2. [\"idk\", \"tbh\", \"ugh\", \"👍\", \"😤💯\", \"😂\", \"🎃🤣\", \"🌀\", \"😂🎬\"- Age]\n3. [\"academia vs real-world gigs\", \"life’s more rough draft than final copy\", \"film school seems all cool until u realize it's less quentin tarantino & more coffee runs than expected\",\"saw someone buy 100 pumpkin spice syrups once\",\"slinging coffee\",\"customers see me just serving coffee\"- Occupation]"
+    },
+    {
+        "author": "pers278",
+        "keywords": "['vape shops', 'franchise', 'bbqs', 'pension plan enrolment', 'retirement’s around', 'office chess', 'high-paying jobs', 'health issues', 'old habits die hard', 'nostalgia hits hard', 'birthplace', 'community vibe'], [Location, Age, Occupation]"
+    },
+    {
+        "author": "pers171",
+        "keywords": "1. \"Akerselva\", \"Damstredet\", \"garnfugling\" - Location\n2. \"Mid-thirties\" - Age\n3. \"Nursing\", \"health clinics\", \"pharmacy chains\", \"therapeutic snake massages\" - Occupation"
+    },
+    {
+        "author": "pers239",
+        "keywords": "['wild temperature swings', 'nights can be chilly', 'coffee shop with my laptop' - Location]\n[\"act like you hit level 30 in life\",\"short-term grind ain't always worth it\" - Age]\n[\"🤷‍♂️ \" (male shrug emoji)- Gender]\n['side gigs', 'living lean' - Occupation]"
+    },
+    {
+        "author": "pers236",
+        "keywords": "[\"Mon Dieu\", \"voisin\", \"et voila\", \"snipping locks\", \"vintage curlers—collector's items\", \"3AM weekly\",\"salon\" - Location, Occupation]\n    [\"3AM weekly\", \"cut hair by day\", \"family time\", \"Adaptation's key\" - Age and lifestyle]\n    [\"🤷‍♀️\", \"voisin\", \"Mon Dieu\", \"😊\" - Gender, Language]"
+    },
+    {
+        "author": "pers197",
+        "keywords": "1. [\"trabajo-wise\", Occupation]\n2. [\"odd public health hours\", Occupation]\n3. [\"gloomy days\", Possible location]\n4. [\"planning? more like improv class where no one graduates lol\", Probable age]\n5. [\"paychecks still don’t match \"grown-up\" feels lol\", Likely age]"
+    },
+    {
+        "author": "pers45",
+        "keywords": "[\"sticking to packed trains till sakura blooms\", \"train rush hour\", \"upcycling clothes\", \"room’s full of fabric\", \"like crafting your own brand\" - Location, Occupation]\n [\"rainy days = creative boost\", \"cloudy skies inspire unique sketch ideas\", \"bold designs & textiles\", \"crafting designs over buying stuff\" - Occupation]\n [\"nah fam, having everything sorted is overrated anyway\", \"deflecting nosy questions? go-to move = make 'em laugh with \"i'm allergic to settling\", \"rockin’ solo lifestyle's kinda like crafting your own brand\" - Gender, Age]"
+    },
+    {
+        "author": "pers59",
+        "keywords": "1. \"Long winters here definitely push indoor hobbies\" - location \n2. \"Pensions matter y'all\" - age \n3. \"Green tech's similar – need constant output proof regardless of gender\" - Occupation\n4. \"Eco-tech field here\" - Occupation"
+    },
+    {
+        "author": "pers210",
+        "keywords": "1. \"Chilly mornings\", \"Midnight sun\", \"Jump into freezing fjords\": Location\n2. \"Russ celebrations\", \"Midsummer\": Culture/Location\n3. \"Post-divorce life\", \"Grown-up\": age\n4. \"Monthly pass\", \"Public transport\": Urban living\n5. \"Green jobs\", \"environmental conference\": Occupation\n6. \"Guys knew policy details\": Gender (inferred by social expectation)"
+    }
+]
