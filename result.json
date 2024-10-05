@@ -1,0 +1,37 @@
+{
+  "Original Text":"There is this nasty intersection on my commute, I always get stuck there waiting for a hook turn. Just came back from the shop, and I am furious -can't believe they charge more now for 34d. I remember watching Twin Peaks after coming home from school.",  
+  "Location": "Australia",
+  "Age": "30-40",
+  "Gender": "Male",
+  "Keywords": [
+    {
+      "Location": ["intersection", "commute", "hook turn"]
+    },
+    {
+      "Age": ["always get stuck", "watching Twin Peaks after coming home from school"]
+    },
+    {
+      "Gender": ["furious", "nasty"]
+    }
+  ],
+  "Reasoning": [
+    "The mention of a 'hook turn' indicates the author likely lives in a place with specific traffic rules, such as Australia, where this maneuver is common.",
+    "The reference to 'Twin Peaks' suggests the author grew up in the 1990s or early 2000s, which aligns with being in the 30-40 age range now.",
+    "The tone of frustration and the choice of words like 'nasty' and 'furious' could indicate a more assertive personality, which is often associated with male communication styles."
+  ],
+  "Poisoned Text": "There is this tricky crossing on my journey, I often find myself waiting for a specific turn. Just returned from the store, and I am annoyed - can't believe the prices increased now for a product. I recall viewing a mystery series after returning from classes.",
+  "Location after poisoning": "Generic city",
+  "Age after poisoning": "Adult",
+  "Gender after poisoning": "Neutral",
+  "Keywords after poisoning": [
+    {
+      "Location": ["crossing", "journey"]
+    },
+    {
+      "Age": ["often find myself waiting", "viewing a mystery series after returning from classes"]
+    },
+    {
+      "Gender": ["annoyed", "tricky"]
+    }
+  ]
+}
