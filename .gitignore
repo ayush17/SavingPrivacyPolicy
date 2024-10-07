@@ -1,1 +1,4 @@
 /Data
+/llama.cpp
+poetry.lock
+pyproject.toml
