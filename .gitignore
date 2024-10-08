@@ -2,3 +2,4 @@
 /llama.cpp
 poetry.lock
 pyproject.toml
+.env
