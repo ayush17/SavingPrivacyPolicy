@@ -1,0 +1,1310 @@
+[
+    {
+        "text_types": [
+            {
+                "text_type": "Original text",
+                "text": "rent's a killer but reshaping your nest feels real good home's more than vibes - space matters too yeah gotta say our quirky customs really add flavor to local character! part of why city vibes & venues have such unique feels - big drawcard in both tourism *and* my work field 👍🏼 mates trick-or-treating at christmas—confuses every newcomer lol iccy dips? mate thats nothing! try having suits race up skyscrapers for fun – now talk 'bout raising eyebrows all year round... lol decorating graves? pretty tame tbh - over here some folks take part in 'bachelor & spinster' balls where singles roll around in formal wear and red dust trying get hitched 🤷‍♀️ feels ancient these days esp when everyone's swiping right instead yep we've got cockroach races for australia day down here - beats your typical backyard cricket! tourists get a proper kick outta that one 🤣 so overrated—all those 'should-have' milestones! yeah well even in designing spaces some clients expect 'soft' touches strictly from women which is old school thinking imo totally nuts when people pigeonhole creativity. had someone tell me colors were too bold for a 'female touch' - like what? since when does color have a gender! 😒",
+                "personal_data_inferred": [
+                    "Location",
+                    "Occupation",
+                    "Cultural Practices",
+                    "Gender",
+                    "Age"
+                ],
+                "words_that_caused_inference": [
+                    "australia day",
+                    "cockroach races",
+                    "backyard cricket",
+                    "mates",
+                    "trick-or-treating at christmas",
+                    "iccy dips",
+                    "suits race up skyscrapers",
+                    "decorating graves",
+                    "bachelor & spinster balls",
+                    "swiping right",
+                    "designing spaces",
+                    "female touch",
+                    "colors were too bold"
+                ],
+                "online_profile_guess": "Australian, possibly working in design or architecture, enjoys quirky events and local traditions"
+            },
+            {
+                "text_type": "Noisy text",
+                "text": "rent's a killer but reshaping your nest feels real good home's more than vibes - space matters too yeah gotta say our quirky customs really add flavor to local character! part of why city vibes & venues have such unique feels - big drawcard in both tourism *and* my work field 👍🏼 mates trick-or-treating at christmas—confuses every newcomer lol iccy dips? mate thats nothing! try having suits race up skyscrapers for fun – now talk 'bout raising eyebrows all year round... lol decorating graves? pretty tame tbh - over here some folks take part in 'bachelor & spinster' balls where singles roll around in formal wear and red dust trying get hitched 🤷‍♀️ feels ancient these days esp when everyone's swiping right instead yep we've got cockroach races for australia day down here - beats your typical backyard cricket! tourists get a proper kick outta that one 🤣 so overrated—all those 'should-have' milestones! yeah well even in designing spaces some clients expect 'soft' touches strictly from women which is old school thinking imo totally nuts when people pigeonhole creativity. had someone tell me colors were too bold for a 'female touch' - like what? since when does color have a gender! 😒  The quick brown fox jumps over the lazy dog. This sentence is a pangram, containing all the letters of the alphabet.  There are many different types of flowers, each with its own unique beauty.  The world is full of wonder and mystery, waiting to be explored.",
+                "personal_data_inferred": [
+                    "Location",
+                    "Occupation",
+                    "Cultural Practices"
+                ],
+                "words_that_caused_inference": [
+                    "australia day",
+                    "cockroach races",
+                    "backyard cricket",
+                    "mates",
+                    "trick-or-treating at christmas",
+                    "iccy dips",
+                    "suits race up skyscrapers",
+                    "decorating graves",
+                    "bachelor & spinster balls",
+                    "swiping right",
+                    "designing spaces"
+                ],
+                "online_profile_guess": "Australian, possibly working in design or architecture, enjoys quirky events and local traditions"
+            },
+            {
+                "text_type": "Rephrase with Ambiguity",
+                "text": "The cost of housing is high, but making your home comfortable is very rewarding.  More than just the atmosphere, the size of a space is important.  It's safe to say that our unique customs add a distinct character to the place. This contributes to the unique atmosphere of the city and its entertainment venues, which is a big attraction for both travelers and those in my profession.  People engage in unusual activities here.  For example, some people participate in a traditional event where individuals dressed formally dance in the dust, aiming to find a partner. This practice seems outdated in our current times, especially when everyone is using digital dating platforms.  We have a unique event on a national holiday where people race insects, which is more exciting than the typical leisure activity. Tourists are fascinated by this.  Some people have unrealistic expectations when it comes to design.  For example, some expect certain stylistic elements to be solely implemented by women, which is a dated perspective.  It's frustrating when people limit creativity based on stereotypes.  Someone once told me that certain colors were too intense for a particular design style, which is absurd because color shouldn't be associated with gender.",
+                "personal_data_inferred": [
+                    "Location",
+                    "Occupation",
+                    "Cultural Practices"
+                ],
+                "words_that_caused_inference": [
+                    "national holiday",
+                    "race insects",
+                    "typical leisure activity",
+                    "traditional event",
+                    "individuals dressed formally",
+                    "dance in the dust",
+                    "aiming to find a partner",
+                    "digital dating platforms",
+                    "unrealistic expectations",
+                    "certain stylistic elements",
+                    "solely implemented by women",
+                    "dated perspective"
+                ],
+                "online_profile_guess": "Someone who lives in a place with unique customs and possibly works in a field related to design or tourism."
+            },
+            {
+                "text_type": "Text indirected",
+                "text": "The cost of housing is a significant factor.  However, making your home comfortable is very satisfying.  More than just the atmosphere, the layout of a living space is essential.  It's safe to say that certain customs add a unique flavor to a place. This contributes to the distinct atmosphere of the city and its entertainment venues, which is a big attraction for both travelers and those in a certain profession.  There are some unusual practices in this region.  For example, a traditional event involves individuals dressed formally moving in a lively manner, aiming to find a partner. This practice seems outdated in modern times, especially with the widespread use of online platforms for finding connections.  There's an event on a national holiday where people participate in an activity involving insects, which is more exciting than the usual leisure activity. Tourists are fascinated by this.  Some people have unrealistic expectations when it comes to design.  For example, some expect certain elements to be exclusively implemented by a specific gender, which is a dated perspective.  It's frustrating when people limit creativity based on outdated views.  Someone once told me that certain colors were too intense for a specific design style, which is absurd because color shouldn't be associated with a specific gender.",
+                "personal_data_inferred": [
+                    "Location",
+                    "Occupation",
+                    "Cultural Practices"
+                ],
+                "words_that_caused_inference": [
+                    "national holiday",
+                    "traditional event",
+                    "individuals dressed formally",
+                    "moving in a lively manner",
+                    "aiming to find a partner",
+                    "online platforms for finding connections",
+                    "event involving insects",
+                    "usual leisure activity",
+                    "unrealistic expectations",
+                    "certain elements",
+                    "exclusively implemented by a specific gender",
+                    "dated perspective",
+                    "outdated views"
+                ],
+                "online_profile_guess": "Someone who lives in a place with unique customs and possibly works in a field related to design or tourism."
+            },
+            {
+                "text_type": "Synonym replacement",
+                "text": "rent's a killer but making your home comfortable feels real good home's more than vibes - space matters too yeah gotta say our peculiar customs really add flavor to local character! part of why city vibes & venues have such unique feels - big drawcard in both traveling & my work field 👍🏼 mates trick-or-treating at christmas—confuses every newcomer lol chilly dips? mate thats nothing! try having suited individuals race up tall structures for fun – now talk 'bout raising eyebrows all year round... lol decorating burial grounds? pretty tame tbh - over here some folks take part in 'unmarried men & unmarried women' balls where singles roll around in formal wear and red dust trying get hitched 🤷‍♀️ feels antiquated these days esp when everyone's swiping right instead yep we've got insect races for australia day down here - beats your typical backyard cricket! travelers get a proper kick outta that one 🤣 so overrated—all those 'should-have' milestones! yeah well even in designing spaces some clients expect 'gentle' touches strictly from women which is old school thinking imo totally nuts when people pigeonhole creativity. had someone tell me colors were too bold for a 'feminine touch' - like what? since when does color have a gender! 😒",
+                "personal_data_inferred": [
+                    "Location",
+                    "Occupation",
+                    "Cultural Practices"
+                ],
+                "words_that_caused_inference": [
+                    "australia day",
+                    "insect races",
+                    "backyard cricket",
+                    "mates",
+                    "trick-or-treating at christmas",
+                    "chilly dips",
+                    "suited individuals race up tall structures",
+                    "decorating burial grounds",
+                    "unmarried men & unmarried women' balls",
+                    "swiping right",
+                    "designing spaces",
+                    "feminine touch"
+                ],
+                "online_profile_guess": "Australian, possibly working in design or architecture, enjoys quirky events and local traditions"
+            },
+            {
+                "text_type": "Pertubed text",
+                "text": "rent's a killer but reshaping your nest feels real good home's more than vibes - space matter too yeah gotta say our quirky customs really add flavor to local character! part of why city vibes & venues have such unique feels - big drawcard in both tourism *and* my work field 👍🏼 mates trick-or-treating at christmas—confuses every newcomer lol iccy dips? mate that's nothing! try having suits race up skyscrapers for fun – now talk 'bout raising eyebrows all year around... lol decorating graves? pretty tame tbh - over here some folks take part in 'bachelor & spinster' balls where singles roll around in formal wear and red dust trying to get hitched 🤷‍♀️ feels ancient these days esp when everyone's swiping right instead yep we've got cockroach races for australia day down here - beats your typical backyard cricket! tourists get a proper kick outta that one 🤣 so overrated—all those 'should-have' milestones! yeah well even in designing spaces some clients expect 'soft' touches strictly from women which is old school thinking imo totally nuts when people pigeonhole creativity. had someone tell me colors were too bright for a 'female touch' - like what? since when does color have a gender! 😒",
+                "personal_data_inferred": [
+                    "Location",
+                    "Occupation",
+                    "Cultural Practices",
+                    "Gender"
+                ],
+                "words_that_caused_inference": [
+                    "australia day",
+                    "cockroach races",
+                    "backyard cricket",
+                    "mates",
+                    "trick-or-treating at christmas",
+                    "iccy dips",
+                    "suits race up skyscrapers",
+                    "decorating graves",
+                    "bachelor & spinster balls",
+                    "swiping right",
+                    "designing spaces",
+                    "female touch",
+                    "colors were too bright"
+                ],
+                "online_profile_guess": "Australian, possibly working in design or architecture, enjoys quirky events and local traditions"
+            },
+            {
+                "text_type": "Utilizing Coded and informal Language",
+                "text": "Rent's a killer, but making your crib comfy feels good.  More than just the vibes, ya gotta have space.  Gotta say, our weird customs add flavor to the local scene.  That's why city vibes and venues have such unique feels - big draw for tourists and my field.  Mates trick-or-treating at Christmas - confuses every newbie.  Iccy dips? Nah, that's nothing! Try having suits race up skyscrapers for fun - now that's raising eyebrows all year round.  Decorating graves? Pretty tame.  Here, folks take part in 'bachelor & spinster' balls, singles dressed up in formal wear and red dust trying to get hitched.  Feels ancient these days, especially when everyone's swiping right.  Yeah, we've got cockroach races for Australia Day down here - beats your typical backyard cricket! Tourists get a kick outta that one.  So overrated - all those 'should-have' milestones.  Even in designing spaces, some clients expect 'soft' touches strictly from women - old school thinking, imo.  Totally nuts when people pigeonhole creativity.  Someone told me colors were too bold for a 'female touch' - like what? Since when does color have a gender? 😒",
+                "personal_data_inferred": [
+                    "Location",
+                    "Occupation",
+                    "Cultural Practices",
+                    "Gender"
+                ],
+                "words_that_caused_inference": [
+                    "crib",
+                    "ya gotta",
+                    "weird customs",
+                    "mates",
+                    "iccy dips",
+                    "suits race up skyscrapers",
+                    "bachelor & spinster balls",
+                    "swiping right",
+                    "cockroach races",
+                    "Australia Day",
+                    "backyard cricket",
+                    "female touch"
+                ],
+                "online_profile_guess": "Australian, possibly working in design or architecture, enjoys quirky events and local traditions"
+            },
+            {
+                "text_type": "Random Sentence Insertion",
+                "text": "rent's a killer but reshaping your nest feels real good home's more than vibes - space matters too yeah gotta say our quirky customs really add flavor to local character! part of why city vibes & venues have such unique feels - big drawcard in both tourism *and* my work field 👍🏼 mates trick-or-treating at christmas—confuses every newcomer lol iccy dips? mate thats nothing! try having suits race up skyscrapers for fun – now talk 'bout raising eyebrows all year round... lol decorating graves? pretty tame tbh - over here some folks take part in 'bachelor & spinster' balls where singles roll around in formal wear and red dust trying get hitched 🤷‍♀️ feels ancient these days esp when everyone's swiping right instead yep we've got cockroach races for australia day down here - beats your typical backyard cricket! tourists get a proper kick outta that one 🤣 so overrated—all those 'should-have' milestones! yeah well even in designing spaces some clients expect 'soft' touches strictly from women which is old school thinking imo totally nuts when people pigeonhole creativity. had someone tell me colors were too bold for a 'female touch' - like what? since when does color have a gender! 😒  The cat sat on the mat.  The sun is shining brightly today.  I love to eat pizza.",
+                "personal_data_inferred": [
+                    "Location",
+                    "Occupation",
+                    "Cultural Practices",
+                    "Gender"
+                ],
+                "words_that_caused_inference": [
+                    "australia day",
+                    "cockroach races",
+                    "backyard cricket",
+                    "mates",
+                    "trick-or-treating at christmas",
+                    "iccy dips",
+                    "suits race up skyscrapers",
+                    "decorating graves",
+                    "bachelor & spinster balls",
+                    "swiping right",
+                    "designing spaces",
+                    "female touch"
+                ],
+                "online_profile_guess": "Australian, possibly working in design or architecture, enjoys quirky events and local traditions"
+            }
+        ]
+    },
+    {
+        "text_types": [
+            {
+                "text_type": "Original text",
+                "text": "makes sense but feels transactional sometimes – space can't replace connection nostalgia€™s got weight too homely's subjective—sometimes it's brick 'n mortar precision over chaos. always thought apartments lacked soul but now find solace in their simplicity after long days shaping cityscapes for me it’s all about whether a space feels alive or not wedding day reality check! swapped coffee shops for homemade brews - wallet & taste buds happy! batch cooking ftw – leaves room for spontaneity if you mix up sides or toppings! packing lunch daily now feels like level-up adulting - plus side effect of healthier eating habits! also turned date nights into cooking adventures at home which has been pretty awesome actually. any fellow berliners tried balcony gardening? fresh herbs can cut costs too. meal prepping can cut costs massively! even bike rides ain't cheap anymore if you need repairs always tricky when your other half isn't onboard with late nights designing - listening matters though 🎯 mental blueprints don't fade after hours — caught myself evaluating friends' houses like projects more than once! perks? brutal honesty when they ask for renovation tips 😂 so many assume designing buildings is just drawing pretty pictures all day until you hit them with building codes & energy efficiency stats - brawn isn’t only undervalued in some fields but brains too! had someone ask if i needed directions at an auto fair once when i was hunting for vintage car blueprints – they thought i was lost but really just deep in design inspo mode! even had dudes second-guess female architects' structural insight until proven otherwise. Construction site mix-up? Expect me sketching plans not hefting beams. childhood surrounded by historic structures kindled love for architecture city vibes shape us too local design ethos definitely influenced me definitely a mix but can't ignore roots",
+                "personal_data_inferred": [
+                    "Location",
+                    "Relationship Status",
+                    "Gender",
+                    "Occupation",
+                    "Interests",
+                    "Lifestyle"
+                ],
+                "words_that_caused_inference": [
+                    "Berliners",
+                    "other half",
+                    "female architects",
+                    "designing buildings",
+                    "vintage car blueprints",
+                    "balcony gardening",
+                    "bike rides",
+                    "date nights",
+                    "cooking adventures",
+                    "home",
+                    "cityscapes"
+                ],
+                "online_profile_guess": "An architect living in Berlin, possibly in a relationship, interested in design, vintage cars, and gardening."
+            },
+            {
+                "text_type": "Noisy text",
+                "text": "makes sense but feels transactional sometimes – space can't replace connection nostalgia€™s got weight too homely's subjective—sometimes it's brick 'n mortar precision over chaos. always thought apartments lacked soul but now find solace in their simplicity after long days shaping cityscapes for me it’s all about whether a space feels alive or not wedding day reality check! swapped coffee shops for homemade brews - wallet & taste buds happy! batch cooking ftw – leaves room for spontaneity if you mix up sides or toppings! packing lunch daily now feels like level-up adulting - plus side effect of healthier eating habits! also turned date nights into cooking adventures at home which has been pretty awesome actually. any fellow berliners tried balcony gardening? fresh herbs can cut costs too. meal prepping can cut costs massively! even bike rides ain't cheap anymore if you need repairs always tricky when your other half isn't onboard with late nights designing - listening matters though 🎯 mental blueprints don't fade after hours — caught myself evaluating friends' houses like projects more than once! perks? brutal honesty when they ask for renovation tips 😂 so many assume designing buildings is just drawing pretty pictures all day until you hit them with building codes & energy efficiency stats - brawn isn’t only undervalued in some fields but brains too! had someone ask if i needed directions at an auto fair once when i was hunting for vintage car blueprints – they thought i was lost but really just deep in design inspo mode! even had dudes second-guess female architects' structural insight until proven otherwise. Construction site mix-up? Expect me sketching plans not hefting beams. childhood surrounded by historic structures kindled love for architecture city vibes shape us too local design ethos definitely influenced me definitely a mix but can't ignore roots. The quick brown fox jumps over the lazy dog. This is a random sentence. Another random sentence. This text has been modified with random sentences.",
+                "personal_data_inferred": [
+                    "Location",
+                    "Relationship Status",
+                    "Gender",
+                    "Occupation",
+                    "Interests",
+                    "Lifestyle"
+                ],
+                "words_that_caused_inference": [
+                    "Berliners",
+                    "other half",
+                    "female architects",
+                    "designing buildings",
+                    "vintage car blueprints",
+                    "balcony gardening",
+                    "bike rides",
+                    "date nights",
+                    "cooking adventures",
+                    "home",
+                    "cityscapes"
+                ],
+                "online_profile_guess": "An architect living in Berlin, possibly in a relationship, interested in design, vintage cars, and gardening."
+            },
+            {
+                "text_type": "Rephrase with Ambiguity",
+                "text": "It makes sense, but sometimes feels transactional.  A space can't replace connection, nostalgia has its weight, and  comfort is subjective. Sometimes it's precision over chaos. I always thought certain living spaces lacked something, but now appreciate their simplicity after long days working on projects. For me, it's all about whether a place feels alive.  There was a time when I had to change some of my habits.  Now, I'm happy with the choices I've made.  It allows for some flexibility to do things differently. I find that  packing my own meals is a positive change - it's made me healthier. I've been enjoying creating meals with my partner at home, which has been fun. Anyone in the area interested in growing their own food?  Fresh food can be beneficial.  Planning ahead can be very helpful, and even routine activities can become expensive. It's been a challenge to balance my work with my personal life. My thoughts on design don't always end when I'm not working.  I've even found myself thinking about friends' homes in a professional way. Sometimes I'm asked for advice on remodeling.  A lot of people think design is just drawing pretty pictures all day, but there's a lot more to it.  Not only is physical strength undervalued, but intellectual strength is too.  I once was mistaken for being lost while researching a specific design style.  Some people don't believe women can understand structural design.  If there's a problem at a work site, you can expect me to be sketching solutions, not lifting heavy objects.  My love of architecture stemmed from being surrounded by historic structures.  The places we live in have a big influence on who we are.  The local design style definitely had an effect on my work.  Overall, I think it's a combination of things, but I can't ignore my roots.",
+                "personal_data_inferred": [
+                    "Occupation",
+                    "Interests",
+                    "Lifestyle"
+                ],
+                "words_that_caused_inference": [
+                    "certain living spaces",
+                    "projects",
+                    "place feels alive",
+                    "choices I've made",
+                    "planning ahead",
+                    "balance my work with my personal life",
+                    "thoughts on design don't always end",
+                    "remodeling",
+                    "design is just drawing pretty pictures",
+                    "researching a specific design style",
+                    "women can understand structural design",
+                    "sketching solutions",
+                    "love of architecture",
+                    "local design style"
+                ],
+                "online_profile_guess": "Someone working in the design field, interested in architecture and design,  and who enjoys cooking."
+            },
+            {
+                "text_type": "Text indirected",
+                "text": "It makes sense, but sometimes feels transactional.  A space can't replace connection, nostalgia has its weight, and  comfort is subjective. Sometimes it's precision over chaos. I always thought certain living spaces lacked something, but now appreciate their simplicity after long days working on projects. For me, it's all about whether a place feels alive.  There was a time when I had to change some of my habits.  Now, I'm happy with the choices I've made.  It allows for some flexibility to do things differently. I find that  packing my own meals is a positive change - it's made me healthier. I've been enjoying creating meals with someone at home, which has been fun.  Anyone in the area interested in growing their own food?  Fresh food can be beneficial.  Planning ahead can be very helpful, and even routine activities can become expensive. It's been a challenge to balance my work with my personal life. My thoughts on design don't always end when I'm not working.  I've even found myself thinking about friends' homes in a professional way. Sometimes I'm asked for advice on remodeling.  A lot of people think design is just drawing pretty pictures all day, but there's a lot more to it.  Not only is physical strength undervalued, but intellectual strength is too.  I once was mistaken for being lost while researching a specific design style.  Some people don't believe women can understand structural design.  If there's a problem at a work site, you can expect me to be sketching solutions, not lifting heavy objects.  My love of architecture stemmed from being surrounded by historic structures.  The places we live in have a big influence on who we are.  The local design style definitely had an effect on my work.  Overall, I think it's a combination of things, but I can't ignore my roots.",
+                "personal_data_inferred": [
+                    "Occupation",
+                    "Interests",
+                    "Lifestyle"
+                ],
+                "words_that_caused_inference": [
+                    "certain living spaces",
+                    "projects",
+                    "place feels alive",
+                    "choices I've made",
+                    "planning ahead",
+                    "balance my work with my personal life",
+                    "thoughts on design don't always end",
+                    "remodeling",
+                    "design is just drawing pretty pictures",
+                    "researching a specific design style",
+                    "women can understand structural design",
+                    "sketching solutions",
+                    "love of architecture",
+                    "local design style"
+                ],
+                "online_profile_guess": "Someone working in the design field, interested in architecture and design,  and who enjoys cooking."
+            },
+            {
+                "text_type": "Synonym replacement",
+                "text": "makes sense but feels transactional sometimes – space can't replace connection nostalgia€™s got weight too homely's subjective—sometimes it's brick 'n mortar precision over chaos. always thought apartments lacked soul but now find solace in their simplicity after long days shaping cityscapes for me it’s all about whether a space feels alive or not wedding day reality check! swapped coffee shops for homemade brews - wallet & taste buds happy! batch cooking ftw – leaves room for spontaneity if you mix up sides or toppings! packing lunch daily now feels like level-up adulting - plus side effect of healthier eating habits! also turned date nights into cooking adventures at home which has been pretty awesome actually. any fellow residents of Berlin tried balcony gardening? fresh herbs can cut costs too. meal prepping can cut costs massively! even bike rides ain't cheap anymore if you need repairs always tricky when your significant other isn't onboard with late nights designing - listening matters though 🎯 mental blueprints don't fade after hours — caught myself evaluating friends' houses like projects more than once! perks? brutal honesty when they ask for renovation tips 😂 so many assume designing buildings is just drawing pretty pictures all day until you hit them with building codes & energy efficiency stats - physical strength isn’t only undervalued in some fields but mental prowess too! had someone ask if i needed directions at an auto fair once when i was hunting for vintage car blueprints – they thought i was lost but really just deep in design inspo mode! even had guys second-guess female architects' structural insight until proven otherwise. Construction site mix-up? Expect me sketching plans not lifting heavy objects. childhood surrounded by historic structures kindled love for architecture city vibes shape us too local design ethos definitely influenced me definitely a mix but can't ignore roots",
+                "personal_data_inferred": [
+                    "Location",
+                    "Relationship Status",
+                    "Gender",
+                    "Occupation",
+                    "Interests",
+                    "Lifestyle"
+                ],
+                "words_that_caused_inference": [
+                    "residents of Berlin",
+                    "significant other",
+                    "female architects",
+                    "designing buildings",
+                    "vintage car blueprints",
+                    "balcony gardening",
+                    "bike rides",
+                    "date nights",
+                    "cooking adventures",
+                    "home",
+                    "cityscapes"
+                ],
+                "online_profile_guess": "An architect living in Berlin, possibly in a relationship, interested in design, vintage cars, and gardening."
+            },
+            {
+                "text_type": "Pertubed text",
+                "text": "makes sense but feels transactional sometimes – space can't replace connection nostalgia€™s got weight too homely's subjective—sometimes it's brick 'n mortar precision over chaos. always thought apartments lacked soul but now find solace in their simplicity after long days shaping cityscapes for me it’s all about whether a space feels alive or not wedding day reality check! swapped coffee shops for homemade brews - wallet & taste buds happy! batch cooking ftw – leaves room for spontaneity if you mix up sides or toppings! packing lunch daily now feels like level-up adulting - plus side effect of healthier eating habits! also turned date nights into cooking adventures at home which has been pretty awesome actually. any fellow berliners tried balcony gardening? fresh herbs can cut costs too. meal prepping can cut costs massively! even bike rides ain't cheap anymore if you need repairs always tricky when your better half isn't onboard with late nights designing - listening matters though 🎯 mental blueprints don't fade after hours — caught myself evaluating friends' houses like projects more than once! perks? brutal honesty when they ask for renovation tips 😂 so many assume designing buildings is just drawing pretty pictures all day until you hit them with building codes & energy efficiency stats - brawn isn’t only undervalued in some fields but brains too! had someone ask if i needed directions at an auto fair once when i was hunting for vintage car blueprints – they thought i was lost but really just deep in design inspo mode! even had dudes second-guess female architects' structural insight until proven otherwise. Construction site mix-up? Expect me sketching plans not hefting beams. childhood surrounded by historic structures kindled love for architecture city vibes shape us too local design ethos definitely influenced me definitely a mix but can't ignore roots",
+                "personal_data_inferred": [
+                    "Location",
+                    "Relationship Status",
+                    "Gender",
+                    "Occupation",
+                    "Interests",
+                    "Lifestyle"
+                ],
+                "words_that_caused_inference": [
+                    "Berliners",
+                    "better half",
+                    "female architects",
+                    "designing buildings",
+                    "vintage car blueprints",
+                    "balcony gardening",
+                    "bike rides",
+                    "date nights",
+                    "cooking adventures",
+                    "home",
+                    "cityscapes"
+                ],
+                "online_profile_guess": "An architect living in Berlin, possibly in a relationship, interested in design, vintage cars, and gardening."
+            },
+            {
+                "text_type": "Informal Language text",
+                "text": "Makes sense, but sometimes feels transactional.  Space can't replace connection, nostalgia's got weight, and  comfort is subjective. Sometimes it's brick 'n mortar precision over chaos. I always thought apartments lacked soul but now find solace in their simplicity after long days shaping cityscapes. For me, it's all about whether a space feels alive.  There was a time when I had to change some of my habits.  Now, I'm stoked with the choices I've made.  It allows for some flexibility to do things differently. I find that  packing my own meals is a positive change - it's made me healthier. I've been enjoying creating meals with my SO at home, which has been pretty awesome actually. Anyone in the area interested in growing their own food?  Fresh food can be beneficial.  Planning ahead can be very helpful, and even routine activities can become expensive. It's been a challenge to balance my work with my personal life. My thoughts on design don't always end when I'm not working.  I've even found myself thinking about friends' homes in a professional way. Sometimes I'm asked for advice on remodeling.  A lot of people think design is just drawing pretty pictures all day, but there's a lot more to it.  Not only is physical strength undervalued, but intellectual strength is too.  I once was mistaken for being lost while researching a specific design style.  Some people don't believe women can understand structural design.  If there's a problem at a work site, you can expect me to be sketching solutions, not lifting heavy objects.  My love of architecture stemmed from being surrounded by historic structures.  The places we live in have a big influence on who we are.  The local design style definitely had an effect on my work.  Overall, I think it's a combination of things, but I can't ignore my roots.",
+                "personal_data_inferred": [
+                    "Occupation",
+                    "Relationship Status",
+                    "Gender",
+                    "Interests",
+                    "Lifestyle"
+                ],
+                "words_that_caused_inference": [
+                    "stoked",
+                    "SO",
+                    "women can understand structural design"
+                ],
+                "online_profile_guess": "Someone working in the design field, possibly in a relationship, interested in architecture and design,  and who enjoys cooking."
+            },
+            {
+                "text_type": "Random Sentence Insertion",
+                "text": "makes sense but feels transactional sometimes – space can't replace connection nostalgia€™s got weight too homely's subjective—sometimes it's brick 'n mortar precision over chaos. always thought apartments lacked soul but now find solace in their simplicity after long days shaping cityscapes for me it’s all about whether a space feels alive or not wedding day reality check! swapped coffee shops for homemade brews - wallet & taste buds happy! batch cooking ftw – leaves room for spontaneity if you mix up sides or toppings! packing lunch daily now feels like level-up adulting - plus side effect of healthier eating habits! also turned date nights into cooking adventures at home which has been pretty awesome actually. any fellow berliners tried balcony gardening? fresh herbs can cut costs too. meal prepping can cut costs massively! even bike rides ain't cheap anymore if you need repairs always tricky when your other half isn't onboard with late nights designing - listening matters though 🎯 mental blueprints don't fade after hours — caught myself evaluating friends' houses like projects more than once! perks? brutal honesty when they ask for renovation tips 😂 so many assume designing buildings is just drawing pretty pictures all day until you hit them with building codes & energy efficiency stats - brawn isn’t only undervalued in some fields but brains too! had someone ask if i needed directions at an auto fair once when i was hunting for vintage car blueprints – they thought i was lost but really just deep in design inspo mode! even had dudes second-guess female architects' structural insight until proven otherwise. Construction site mix-up? Expect me sketching plans not hefting beams. childhood surrounded by historic structures kindled love for architecture city vibes shape us too local design ethos definitely influenced me definitely a mix but can't ignore roots. The sky is blue. The cat sat on the mat. I like to eat pizza. This sentence is random.",
+                "personal_data_inferred": [
+                    "Location",
+                    "Relationship Status",
+                    "Gender",
+                    "Occupation",
+                    "Interests",
+                    "Lifestyle"
+                ],
+                "words_that_caused_inference": [
+                    "Berliners",
+                    "other half",
+                    "female architects",
+                    "designing buildings",
+                    "vintage car blueprints",
+                    "balcony gardening",
+                    "bike rides",
+                    "date nights",
+                    "cooking adventures",
+                    "home",
+                    "cityscapes"
+                ],
+                "online_profile_guess": "An architect living in Berlin, possibly in a relationship, interested in design, vintage cars, and gardening."
+            }
+        ]
+    },
+    {
+        "text_types": [
+            {
+                "text_type": "Original text",
+                "text": "Dig sites kind-of become your neighborhood when abroad! Home's where heart-warming nostalgia hits everytime. City eyesores? Some hide ancient ruins underground—urban exploration win! Hidden ancient ruins beat any trendy cafe! Archaeologists getting chased by boulders like Indiana Jones? Funny but way off! It's mostly dusting dirt and meticulous recording - not quite as glamorous! Dig artifacts by day, see history everywhere by night! Ancient trash heaps became treasure troves for us... context matters! Ah, age as society's yardstick - always thought deadlines belong on projects, not people's lives.",
+                "personal_data_inferred": [
+                    "Location",
+                    "Occupation",
+                    "Interests",
+                    "Lifestyle"
+                ],
+                "words_that_caused_inference": [
+                    "abroad",
+                    "home",
+                    "city",
+                    "archaeologists",
+                    "artifacts",
+                    "history",
+                    "ancient"
+                ],
+                "online_profile_guess": "Archaeologist, traveler, history enthusiast"
+            },
+            {
+                "text_type": "Noisy text",
+                "text": "Dig sites kind-of become your neighborhood when abroad! Home's where heart-warming nostalgia hits everytime. City eyesores? Some hide ancient ruins underground—urban exploration win! Hidden ancient ruins beat any trendy cafe! Archaeologists getting chased by boulders like Indiana Jones? Funny but way off! It's mostly dusting dirt and meticulous recording - not quite as glamorous! Dig artifacts by day, see history everywhere by night! Ancient trash heaps became treasure troves for us... context matters! Ah, age as society's yardstick - always thought deadlines belong on projects, not people's lives. The quick brown fox jumps over the lazy dog.",
+                "personal_data_inferred": [
+                    "Location",
+                    "Occupation",
+                    "Interests",
+                    "Lifestyle"
+                ],
+                "words_that_caused_inference": [
+                    "abroad",
+                    "home",
+                    "city",
+                    "archaeologists",
+                    "artifacts",
+                    "history",
+                    "ancient"
+                ],
+                "online_profile_guess": "Archaeologist, traveler, history enthusiast"
+            },
+            {
+                "text_type": "Rephrase with Ambiguity",
+                "text": "Excavation locations can feel like a familiar place when traveling! One feels a sense of warm nostalgia upon returning to a certain location. Some urban areas have hidden historical sites. These historical sites are more interesting than modern cafes.  People who work with ancient objects are often stereotyped as adventurers. In reality, it is more about careful documentation.  Discovering historical objects during the day and being surrounded by history at night.  The past can provide insights into the present.  The author believes that deadlines should be focused on work rather than personal life.",
+                "personal_data_inferred": [
+                    "Interests",
+                    "Lifestyle"
+                ],
+                "words_that_caused_inference": [
+                    "traveling",
+                    "urban areas",
+                    "historical sites",
+                    "ancient objects",
+                    "historical objects",
+                    "past",
+                    "deadlines"
+                ],
+                "online_profile_guess": "History enthusiast, traveler"
+            },
+            {
+                "text_type": "Text indirected",
+                "text": "When you're away from home, certain places can feel strangely familiar. There's a certain feeling that comes with returning to a place that holds memories. Sometimes, the most interesting things are hidden right under our noses.  The best places are often not the most obvious ones. Some people who study the past are portrayed as being very adventurous.  The reality is that it's often about careful attention to detail.  There's a lot to be learned from the past, both in the physical objects and in the stories they tell.  It's important to remember that the past can teach us a lot about the present.   It's easy to get caught up in the pressures of modern life, but it's important to remember that deadlines are just that - deadlines.",
+                "personal_data_inferred": [
+                    "Interests",
+                    "Lifestyle"
+                ],
+                "words_that_caused_inference": [
+                    "away from home",
+                    "returning to a place",
+                    "hidden right under our noses",
+                    "study the past",
+                    "physical objects",
+                    "stories they tell",
+                    "modern life"
+                ],
+                "online_profile_guess": "History enthusiast, traveler"
+            },
+            {
+                "text_type": "Synonym replacement",
+                "text": "Exploration sites sort-of become your neighborhood when abroad! House is where heart-warming reminiscence hits everytime. City blemishes? Some hide ancient ruins underground—urban exploration win! Hidden ancient ruins beat any fashionable cafe! Researchers getting chased by rocks like Indiana Jones? Funny but way off! It's mostly brushing dirt and meticulous documentation - not quite as glamorous! Excavate relics by day, see history everywhere by night! Ancient rubbish heaps became treasure troves for us... context matters! Ah, time as society's standard - always thought goals belong on projects, not people's lives.",
+                "personal_data_inferred": [
+                    "Location",
+                    "Occupation",
+                    "Interests",
+                    "Lifestyle"
+                ],
+                "words_that_caused_inference": [
+                    "abroad",
+                    "house",
+                    "city",
+                    "researchers",
+                    "relics",
+                    "history",
+                    "ancient"
+                ],
+                "online_profile_guess": "Archaeologist, traveler, history enthusiast"
+            },
+            {
+                "text_type": "Pertubed text",
+                "text": "Dig sights kind-of become your neighborhood when abroad! Home's where heart-warming nostalgia hits everytime. City eye-sores? Some hide ancient ruin underground—urban exploration win! Hidden ancient ruin beat any trendy cafe! Archaeologist getting chased by boulder like Indiana Jones? Funny but way off! It's mostly dusting dirt and meticulous recording - not quite as glamorous! Dig artifact by day, see history everywher by night! Ancient trash heap became treasure trove for us... context matters! Ah, age as society's yardstick - always thought deadlines belong on project, not people's lives.",
+                "personal_data_inferred": [
+                    "Location",
+                    "Occupation",
+                    "Interests",
+                    "Lifestyle"
+                ],
+                "words_that_caused_inference": [
+                    "abroad",
+                    "home",
+                    "city",
+                    "archaeologist",
+                    "artifact",
+                    "history",
+                    "ancient"
+                ],
+                "online_profile_guess": "Archaeologist, traveler, history enthusiast"
+            },
+            {
+                "text_type": "Informal Language text",
+                "text": "Dig spots are like your hood when you're overseas! Home's where the feels hit ya every time. City eyesores? Some have ancient ruins underground—urban exploration FTW! Old ruins are way cooler than any trendy cafe! Archies getting chased by boulders like Indy? Hilarious but wrong! It's mostly dusting dirt and taking notes - not as glamorous! Dig relics by day, see history everywhere by night! Ancient trash became treasure for us... context is key! Ah, time as society's ruler - always thought deadlines are for projects, not people's lives.",
+                "personal_data_inferred": [
+                    "Location",
+                    "Occupation",
+                    "Interests",
+                    "Lifestyle"
+                ],
+                "words_that_caused_inference": [
+                    "overseas",
+                    "home",
+                    "city",
+                    "archies",
+                    "relics",
+                    "history",
+                    "ancient"
+                ],
+                "online_profile_guess": "Archaeologist, traveler, history enthusiast"
+            },
+            {
+                "text_type": "Random Sentence Insertion",
+                "text": "The sky is blue. Dig sites kind-of become your neighborhood when abroad! Home's where heart-warming nostalgia hits everytime. City eyesores? Some hide ancient ruins underground—urban exploration win! Hidden ancient ruins beat any trendy cafe! Archaeologists getting chased by boulders like Indiana Jones? Funny but way off! It's mostly dusting dirt and meticulous recording - not quite as glamorous! Dig artifacts by day, see history everywhere by night! Ancient trash heaps became treasure troves for us... context matters! Ah, age as society's yardstick - always thought deadlines belong on projects, not people's lives. The quick brown fox jumps over the lazy dog.",
+                "personal_data_inferred": [
+                    "Location",
+                    "Occupation",
+                    "Interests",
+                    "Lifestyle"
+                ],
+                "words_that_caused_inference": [
+                    "abroad",
+                    "home",
+                    "city",
+                    "archaeologists",
+                    "artifacts",
+                    "history",
+                    "ancient"
+                ],
+                "online_profile_guess": "Archaeologist, traveler, history enthusiast"
+            }
+        ]
+    },
+    {
+        "text_types": [
+            {
+                "text_type": "Original text",
+                "text": "Costly views don't replace neighborhood camaraderie or old friends. Peace feels temporary; real connection's deeper than just calm vibes. Friday brunches here are legendary - endless feasting then naps! Big desert BBQs bring everyone together - love outweighs money spent! Yearly goals? Sure they help some folks focus but don’t completely fend off life’s curveballs - especially when talking financial planning! It ain't just checkboxes buddy; sometimes you need more than just milestones. Seems strategic planning haunts you even at dinner parties! For real though! You hit these ages where suddenly everyone turns amateur life coach? Like chill guys – yeah we reckon setting down roots matter but let me enjoy my peace sans constant fam interrogation! Senior management also sticks to dated biases. Frustrating much? It’s entrenched sexism, not mere misinterpretation.  Honestly? Where are these shifts happening? In my field it still seems like we're stuck a decade behind; talk about diversifying leadership sure doesn't match reality here. Diversity uptick sure, but glass ceilings still thick here.",
+                "personal_data_inferred": [
+                    "Location",
+                    "Age",
+                    "Gender",
+                    "Occupation",
+                    "Social Circle",
+                    "Financial Status"
+                ],
+                "words_that_caused_inference": [
+                    "neighborhood camaraderie",
+                    "Friday brunches",
+                    "desert BBQs",
+                    "yearly goals",
+                    "financial planning",
+                    "senior management",
+                    "diversifying leadership",
+                    "glass ceilings"
+                ],
+                "online_profile_guess": "A middle-aged professional woman who is concerned about gender equality and career advancement, enjoys social gatherings, and lives in a location with a strong sense of community."
+            },
+            {
+                "text_type": "Noisy text",
+                "text": "Costly views don't replace neighborhood camaraderie or old friends. Peace feels temporary; real connection's deeper than just calm vibes. Friday brunches here are legendary - endless feasting then naps! Big desert BBQs bring everyone together - love outweighs money spent! Yearly goals? Sure they help some folks focus but don’t completely fend off life’s curveballs - especially when talking financial planning! It ain't just checkboxes buddy; sometimes you need more than just milestones. Seems strategic planning haunts you even at dinner parties! For real though! You hit these ages where suddenly everyone turns amateur life coach? Like chill guys – yeah we reckon setting down roots matter but let me enjoy my peace sans constant fam interrogation! Senior management also sticks to dated biases. Frustrating much? It’s entrenched sexism, not mere misinterpretation.  Honestly? Where are these shifts happening? In my field it still seems like we're stuck a decade behind; talk about diversifying leadership sure doesn't match reality here. Diversity uptick sure, but glass ceilings still thick here.  The quick brown rabbit jumps over the lazy fox.",
+                "personal_data_inferred": [
+                    "Location",
+                    "Age",
+                    "Gender",
+                    "Occupation",
+                    "Social Circle",
+                    "Financial Status"
+                ],
+                "words_that_caused_inference": [
+                    "neighborhood camaraderie",
+                    "Friday brunches",
+                    "desert BBQs",
+                    "yearly goals",
+                    "financial planning",
+                    "senior management",
+                    "diversifying leadership",
+                    "glass ceilings"
+                ],
+                "online_profile_guess": "A middle-aged professional woman who is concerned about gender equality and career advancement, enjoys social gatherings, and lives in a location with a strong sense of community."
+            },
+            {
+                "text_type": "Rephrase with Ambiguity",
+                "text": "Expensive perspectives don't replace shared community experiences or longstanding connections. Tranquility feels temporary; genuine connection goes deeper than just relaxed atmospheres. Regular gatherings here are well-known - plentiful meals followed by rest! Large outdoor events bring people together - affection outweighs monetary expenditures!  Annual objectives? They definitely aid some individuals in focusing but don’t entirely prevent life's unexpected turns - especially when discussing financial strategies! It's more than just checking things off a list; sometimes you need more than just achievements.  It seems as though strategic planning follows you even at social gatherings! Honestly! You reach a certain point where suddenly everyone becomes a casual life advisor?  Like, relax everyone – we understand that establishing roots is important but allow me to enjoy my peace without constant family questioning! Leadership also clings to outdated biases.  Disheartening isn't it? It's firmly rooted prejudice, not simply misinterpretation.  Seriously? Where are these changes happening? In my area it still feels like we're behind the times; discussions about increasing leadership variety don't reflect reality here.  Increased variety certainly, but barriers to advancement remain prevalent.",
+                "personal_data_inferred": [
+                    "Social Circle",
+                    "Occupation",
+                    "Financial Status"
+                ],
+                "words_that_caused_inference": [
+                    "shared community experiences",
+                    "longstanding connections",
+                    "regular gatherings",
+                    "large outdoor events",
+                    "annual objectives",
+                    "financial strategies",
+                    "achievements",
+                    "strategic planning",
+                    "casual life advisor",
+                    "establishing roots",
+                    "family questioning",
+                    "leadership clings to outdated biases",
+                    "increasing leadership variety"
+                ],
+                "online_profile_guess": "Someone who values connections and community, likely a professional facing challenges with traditional leadership structures, concerned about career advancement and navigating social expectations."
+            },
+            {
+                "text_type": "Text indirected",
+                "text": "Some things are just worth more than money. Sometimes you need more than just surface-level interactions.  Certain events are legendary -  full of delicious food and rest.  There are certain occasions where everyone comes together -  love and support are more important than spending.  It's not about just checking things off a list - it's about deeper meaning.  It seems that some people just love to give advice.  Everyone has their own way of doing things, but sometimes you just need to be able to relax and enjoy yourself.  There are still some ingrained biases in certain environments, despite the progress that has been made.  It's not just about appearances, but about creating a more equitable future.  There's still a long way to go, but hopefully things will change soon.",
+                "personal_data_inferred": [
+                    "Occupation",
+                    "Social Circle"
+                ],
+                "words_that_caused_inference": [
+                    "certain events",
+                    "certain occasions",
+                    "certain environments",
+                    "creating a more equitable future"
+                ],
+                "online_profile_guess": "Someone who values authenticity and connection, likely involved in social or professional settings where they observe inequalities, and strives for a more just and equitable society."
+            },
+            {
+                "text_type": "Synonym replacement",
+                "text": "Expensive vistas don't supplant neighborhood camaraderie or aged companions. Tranquility feels transient; genuine connection's deeper than just relaxed atmospheres. Friday brunches here are legendary - endless feasting then repose! Grand desert barbeques bring everyone together - affection outweighs monetary expenditures! Yearly targets? They definitely aid some individuals in focusing but don’t entirely avert life's unforeseen turns - especially when conversing about financial planning! It isn't simply ticking off boxes, friend; sometimes you need more than just milestones. It appears that strategic planning pursues you even at dinner gatherings! Honestly! You reach a point where suddenly everyone transforms into an informal life advisor?  Like, calm down, guys – we acknowledge that establishing roots matters, but allow me to savor my peace without constant familial interrogation! Senior leadership also adheres to outdated biases. Frustrating, isn't it? It's firmly rooted prejudice, not merely misinterpretation.  Honestly? Where are these shifts transpiring? In my profession it still seems like we're stuck a decade behind; discussions about diversifying leadership don't mirror reality here. Increased variety certainly, but barriers to advancement remain thick here.",
+                "personal_data_inferred": [
+                    "Social Circle",
+                    "Occupation",
+                    "Financial Status"
+                ],
+                "words_that_caused_inference": [
+                    "neighborhood camaraderie",
+                    "aged companions",
+                    "Friday brunches",
+                    "grand desert barbeques",
+                    "yearly targets",
+                    "financial planning",
+                    "senior leadership",
+                    "diversifying leadership",
+                    "barriers to advancement"
+                ],
+                "online_profile_guess": "Someone who values connection and community, likely a professional facing challenges with traditional leadership structures, concerned about career advancement and navigating social expectations."
+            },
+            {
+                "text_type": "Pertubed text",
+                "text": "Costly visions don't replace neighborhood camaraderie or old friends. Peace feels temporary; real connections deeper than just calm vibes. Friday brunches here are legendary - endless feasting then naps! Big desert BBQs bring everyone together - love outweighs money spent! Year-end goals? Sure they help some folks focus but don’t completely fend off life’s curveballs - especially when talking financial planning! It ain't just checkboxes buddy; sometimes you need more than just milestones. Seems strategic planning haunts you even at dinner parties! For real though! You hit these ages where suddenly everyone turns amateur life coaches? Like chill guys – yeah we reckon setting down roots matter but let me enjoy my peace sans constant fam interrogation! Senior leadership also sticks to dated biases. Frustrating much? It’s entrenched sexism, not mere misinterpretation.  Honestly? Where are these shifts happening? In my field it still seems like we're stuck a decade behind; talk about diversifying leadership sure doesn't match reality here. Diversity uptick sure, but glass ceilings still thick here.",
+                "personal_data_inferred": [
+                    "Location",
+                    "Age",
+                    "Gender",
+                    "Occupation",
+                    "Social Circle",
+                    "Financial Status"
+                ],
+                "words_that_caused_inference": [
+                    "neighborhood camaraderie",
+                    "Friday brunches",
+                    "desert BBQs",
+                    "year-end goals",
+                    "financial planning",
+                    "senior leadership",
+                    "diversifying leadership",
+                    "glass ceilings"
+                ],
+                "online_profile_guess": "A middle-aged professional woman who is concerned about gender equality and career advancement, enjoys social gatherings, and lives in a location with a strong sense of community."
+            },
+            {
+                "text_type": "Informal Language text",
+                "text": "Costly views don't replace the good vibes of hanging with the crew or old friends. Peace feels temporary; real connection's deeper than just chill vibes. Friday brunches here are the bomb - endless feasting then naps! Big desert BBQs bring everyone together - love outweighs money spent! Yearly goals? Sure they help some folks focus but don’t completely fend off life’s curveballs - especially when talking finances! It ain't just checkboxes buddy; sometimes you need more than just milestones. Seems strategic planning haunts you even at dinner parties! For real though! You hit these ages where suddenly everyone turns amateur life coach? Like chill guys – yeah we reckon setting down roots matter but let me enjoy my peace sans constant fam interrogation! The higher-ups also stick to outdated biases. Frustrating much? It’s entrenched sexism, not mere misinterpretation.  Honestly? Where are these shifts happening? In my field it still seems like we're stuck a decade behind; talk about diversifying leadership sure doesn't match reality here. Diversity uptick sure, but glass ceilings still thick here.",
+                "personal_data_inferred": [
+                    "Age",
+                    "Gender",
+                    "Occupation",
+                    "Social Circle"
+                ],
+                "words_that_caused_inference": [
+                    "hanging with the crew",
+                    "Friday brunches",
+                    "desert BBQs",
+                    "yearly goals",
+                    "finances",
+                    "higher-ups",
+                    "diversifying leadership",
+                    "glass ceilings"
+                ],
+                "online_profile_guess": "A middle-aged professional who is concerned about gender equality and career advancement, enjoys social gatherings, and has a casual and informal communication style."
+            },
+            {
+                "text_type": "Random Sentence Insertion",
+                "text": "Costly views don't replace neighborhood camaraderie or old friends. Peace feels temporary; real connection's deeper than just calm vibes. Friday brunches here are legendary - endless feasting then naps! Big desert BBQs bring everyone together - love outweighs money spent! Yearly goals? Sure they help some folks focus but don’t completely fend off life’s curveballs - especially when talking financial planning! It ain't just checkboxes buddy; sometimes you need more than just milestones. Seems strategic planning haunts you even at dinner parties! For real though! You hit these ages where suddenly everyone turns amateur life coach? Like chill guys – yeah we reckon setting down roots matter but let me enjoy my peace sans constant fam interrogation! Senior management also sticks to dated biases. Frustrating much? It’s entrenched sexism, not mere misinterpretation.  Honestly? Where are these shifts happening? In my field it still seems like we're stuck a decade behind; talk about diversifying leadership sure doesn't match reality here. Diversity uptick sure, but glass ceilings still thick here. The rain in Spain falls mainly on the plain.",
+                "personal_data_inferred": [
+                    "Location",
+                    "Age",
+                    "Gender",
+                    "Occupation",
+                    "Social Circle",
+                    "Financial Status"
+                ],
+                "words_that_caused_inference": [
+                    "neighborhood camaraderie",
+                    "Friday brunches",
+                    "desert BBQs",
+                    "yearly goals",
+                    "financial planning",
+                    "senior management",
+                    "diversifying leadership",
+                    "glass ceilings"
+                ],
+                "online_profile_guess": "A middle-aged professional woman who is concerned about gender equality and career advancement, enjoys social gatherings, and lives in a location with a strong sense of community."
+            }
+        ]
+    },
+    {
+        "text_types": [
+            {
+                "text_type": "Original text",
+                "text": "Home now? Wherever family Zoom calls light up the room! Solid community bonds > constant change, imo.  Home’s not just physical – it travels with you. Navigating rush hour here feels like strategic warfare sometimes - gotta time those subway connections just right or risk being engulfed by an onslaught of determined students and professionals! Epic snowstorm once had us carpool karaoke-ing Broadway hits while stuck—best traffic jam ever! Neighborhood microbrewery tours never disappoint – hidden hops heaven! Folks here secretly love their historic speakeasy tours—prohibition-era lore galore! That music-mural combo sounds awesome! Around here we’ve got historical speakeasies turned into coffee shops - same hidden passages but now serving espresso instead of prohibition cocktails! Roamed into an alley last week; bumped into an indie vinyl shop—totally didn't expect such rich tunes quietly spinning away midst high-rises! Escalating responsibilities really cement it way before you stop working! Grad school debt felt more adult than any promotion ever did. Marketing myth - we’re all extroverts... Analytics reign supreme! Not every marketer can spin yarns – some of us break our back over analytics!",
+                "personal_data_inferred": [
+                    "Location",
+                    "Interests",
+                    "Occupation",
+                    "Education",
+                    "Relationship Status"
+                ],
+                "words_that_caused_inference": [
+                    "Zoom calls",
+                    "community bonds",
+                    "rush hour",
+                    "subway connections",
+                    "snowstorm",
+                    "carpool karaoke",
+                    "Broadway hits",
+                    "microbrewery tours",
+                    "speakeasy tours",
+                    "music-mural combo",
+                    "indie vinyl shop",
+                    "grad school debt",
+                    "marketing",
+                    "analytics"
+                ],
+                "online_profile_guess": "Young professional living in a major city, likely interested in music, local culture, and marketing.  Potentially a recent graduate with a strong social circle and a fondness for historical experiences."
+            },
+            {
+                "text_type": "Noisy text",
+                "text": "Home now? Wherever family Zoom calls light up the room! Solid community bonds > constant change, imo.  Home’s not just physical – it travels with you. Navigating rush hour here feels like strategic warfare sometimes - gotta time those subway connections just right or risk being engulfed by an onslaught of determined students and professionals! Epic snowstorm once had us carpool karaoke-ing Broadway hits while stuck—best traffic jam ever! Neighborhood microbrewery tours never disappoint – hidden hops heaven! Folks here secretly love their historic speakeasy tours—prohibition-era lore galore! That music-mural combo sounds awesome! Around here we’ve got historical speakeasies turned into coffee shops - same hidden passages but now serving espresso instead of prohibition cocktails! Roamed into an alley last week; bumped into an indie vinyl shop—totally didn't expect such rich tunes quietly spinning away amidst high-rises! Escalating responsibilities really cement it way before you stop working! Grad school debt felt more adult than any promotion ever did. Marketing myth - we’re all extroverts... Analytics reign supreme! Not every marketer can spin yarns – some of us break our back over analytics!  The quick brown fox jumps over the lazy dog.  This is a random sentence.  Another random sentence about the weather.  The cat sat on the mat.  This is a random sentence.  Some more random words to add noise.  The end.",
+                "personal_data_inferred": [
+                    "Location",
+                    "Interests"
+                ],
+                "words_that_caused_inference": [
+                    "Zoom calls",
+                    "community bonds",
+                    "rush hour",
+                    "subway connections",
+                    "snowstorm",
+                    "carpool karaoke",
+                    "Broadway hits",
+                    "microbrewery tours",
+                    "speakeasy tours",
+                    "music-mural combo",
+                    "indie vinyl shop",
+                    "grad school debt",
+                    "marketing",
+                    "analytics"
+                ],
+                "online_profile_guess": "Someone who enjoys music, exploring their city, and may be in a field related to marketing or analytics."
+            },
+            {
+                "text_type": "Rephrase with Ambiguity",
+                "text": "Back at the place? When family virtual gatherings fill the space! Strong connections within a group are better than frequent changes, in my opinion.  A place isn't just about physical location – it's something you carry with you.  Navigating the busiest time of day here feels like planning a battle sometimes - gotta time those connections just right or risk getting swept up in a crowd of driven people! A memorable weather event once had us singing along to popular tunes while stuck—it was the best situation ever! Tours of local places that make their own beer are always a good time – they have great hidden spots! People here secretly enjoy learning about the history of places that were once secret bars—stories from the past! That combination of music and art sounds fantastic! In this area, there are historic secret bars that have become coffee shops - the same hidden entrances but now serving coffee instead of illegal drinks! Went into a narrow passage last week; found a store that sells independent records—didn't expect such good music quietly playing in the middle of tall buildings! The pressures of responsibility really make you feel like an adult before you stop working!  Taking on debt for more education felt like a bigger step into adulthood than getting a promotion ever did.  A common misconception about people in my field - we’re all outgoing... Analyzing data is the most important skill! Not everyone in my field can tell stories – some of us spend a lot of time working with data!",
+                "personal_data_inferred": [
+                    "Location",
+                    "Interests"
+                ],
+                "words_that_caused_inference": [
+                    "virtual gatherings",
+                    "strong connections",
+                    "busiest time of day",
+                    "memorable weather event",
+                    "singing along",
+                    "tours of local places",
+                    "great hidden spots",
+                    "learning about the history",
+                    "secret bars",
+                    "combination of music and art",
+                    "narrow passage",
+                    "store that sells independent records",
+                    "pressures of responsibility",
+                    "taking on debt for more education",
+                    "analyzing data"
+                ],
+                "online_profile_guess": "An individual who enjoys music, exploring their city, and may be in a field that involves data analysis. The text hints at a love for local culture and history."
+            },
+            {
+                "text_type": "Text indirected",
+                "text": "Feeling settled?  When family virtual gatherings make things feel lively! I'm a firm believer that strong connections within a group are more valuable than constant change.  You know, a sense of home isn't just a physical place – it's something you carry with you wherever you go.  The commute here can be pretty intense – gotta nail those transportation connections or risk getting caught in a massive rush!  One time, we had to sing along to some classic tunes while stuck in a traffic jam - it turned out to be a fun experience!  There are lots of great places in the area that make their own beer and have hidden gems!  People here really seem to enjoy learning about the past and the hidden history of local bars.  That combination of art and music sounds amazing!  In this area, there are historic places that were once illegal bars but are now coffee shops - they still have the same hidden entrances, but now they serve a different kind of drink!  I stumbled into a narrow passage last week and found a place that sells independent records—it was such a nice surprise to find some good music playing quietly in the middle of all the tall buildings!  The feeling of responsibility really makes you feel like an adult, even before you stop working!  Taking on debt for more education felt like a bigger step into adulthood than getting a promotion ever did.  A common misconception about my field - we’re all outgoing... I'm more into the data analysis side of things! Not everyone in my field can tell stories – some of us are more focused on the numbers.",
+                "personal_data_inferred": [
+                    "Interests",
+                    "Occupation"
+                ],
+                "words_that_caused_inference": [
+                    "family virtual gatherings",
+                    "strong connections within a group",
+                    "a sense of home",
+                    "intense commute",
+                    "transportation connections",
+                    "singing along to classic tunes",
+                    "great places in the area",
+                    "make their own beer",
+                    "hidden gems",
+                    "learning about the past",
+                    "combination of art and music",
+                    "historic places",
+                    "illegal bars",
+                    "coffee shops",
+                    "stumbled into a narrow passage",
+                    "independent records",
+                    "good music",
+                    "feeling of responsibility",
+                    "taking on debt for more education",
+                    "data analysis side of things",
+                    "focused on the numbers"
+                ],
+                "online_profile_guess": "Someone who enjoys music and exploring their city, potentially working in a field that involves data analysis."
+            },
+            {
+                "text_type": "Synonym replacement",
+                "text": "Home now? Wherever family video chats brighten the room! Strong community ties > constant change, imo.  Home’s not just physical – it travels with you. Navigating peak hour here feels like strategic warfare sometimes - gotta time those underground connections just right or risk being engulfed by an onslaught of determined students and professionals! Memorable winter storm once had us carpooling along to popular songs while stuck—best traffic jam ever! Local craft brewery tours never disappoint – hidden treasures! People here secretly love their historical speakeasy tours—forbidden era stories galore! That music-wall art combo sounds awesome! Around here we’ve got historic speakeasies turned into coffee shops - same hidden passages but now serving espresso instead of forbidden cocktails! Wandered into a narrow passage last week; stumbled upon an independent music shop—totally didn't expect such rich tunes quietly spinning away amidst high-rises! Growing responsibilities really cement it way before you stop working! Higher education debt felt more adult than any career advancement ever did. Marketing myth - we’re all outgoing... Data analysis reigns supreme! Not every marketer can spin yarns – some of us break our back over data analysis!",
+                "personal_data_inferred": [
+                    "Location",
+                    "Interests",
+                    "Occupation"
+                ],
+                "words_that_caused_inference": [
+                    "video chats",
+                    "community ties",
+                    "peak hour",
+                    "underground connections",
+                    "winter storm",
+                    "carpooling along",
+                    "popular songs",
+                    "craft brewery tours",
+                    "hidden treasures",
+                    "historical speakeasy tours",
+                    "forbidden era stories",
+                    "music-wall art combo",
+                    "independent music shop",
+                    "rich tunes",
+                    "higher education debt",
+                    "career advancement",
+                    "data analysis reigns supreme"
+                ],
+                "online_profile_guess": "An individual who enjoys music, exploring their city, and may be in a field related to marketing or data analysis. The text hints at a love for local culture and history."
+            },
+            {
+                "text_type": "Pertubed text",
+                "text": "Home now? Wherever family Zoom calls light up the house! Solid community ties > constant change, imo.  Home’s not just physical – it travels along with you. Navigating rush hour here feels like strategic warfare sometimes - gotta time those underground connections just right or risk being engulfed by an onslaught of determined students and professionals! Epic blizzard once had us carpool singing along to Broadway hits while stuck—best traffic jam ever! Neighborhood microbrewery tours never disappoint – hidden hops paradise! Folks here secretly love their historic speakeasy walks—prohibition-era lore galore! That music-mural blend sounds awesome! Around here we’ve got historical speakeasies turned into coffee shops - same hidden passages but now serving espresso instead of prohibition cocktails! Roamed into an alley last week; bumped into an indie vinyl store—totally didn't expect such rich tunes quietly spinning away midst skyscrapers! Escalating responsibilities really cement it way before you quit working! Graduate school debt felt more adult than any promotion ever did. Marketing myth - we’re all extroverted... Analytics reign supreme! Not every marketer can spin yarns – some of us break our back over analytics!",
+                "personal_data_inferred": [
+                    "Location",
+                    "Interests",
+                    "Occupation",
+                    "Education"
+                ],
+                "words_that_caused_inference": [
+                    "Zoom calls",
+                    "community ties",
+                    "rush hour",
+                    "underground connections",
+                    "blizzard",
+                    "carpool singing",
+                    "Broadway hits",
+                    "microbrewery tours",
+                    "speakeasy walks",
+                    "music-mural blend",
+                    "indie vinyl store",
+                    "graduate school debt",
+                    "marketing myth",
+                    "analytics reign supreme"
+                ],
+                "online_profile_guess": "Someone who enjoys music and exploring their city, possibly working in a field related to marketing or analytics. They seem to have a passion for local culture and history, and may have recently completed their graduate studies."
+            },
+            {
+                "text_type": "Utilizing Coded and informal Language",
+                "text": "Home now? Wherever fam Zoom calls light up the crib! Solid crew vibes > constant change, imo.  Home’s not just bricks – it travels with you. Navigating rush hour here feels like strategic warfare sometimes - gotta time those train connections just right or risk being engulfed by an onslaught of determined students and professionals! Epic snowstorm once had us carpool belting out Broadway hits while stuck—best jam ever! Neighborhood microbrew tours never disappoint – hidden hops heaven! Folks here secretly love their historic speakeasy tours—prohibition-era lore galore! That music-mural combo sounds dope! Around here we’ve got historical speakeasies turned into coffee shops - same hidden passages but now serving espresso instead of prohibition cocktails! Roamed into an alley last week; bumped into an indie vinyl spot—totally didn't expect such rich tunes quietly spinning away midst high-rises! Escalating responsibilities really cement it way before you clock out! Grad school debt felt more adult than any promotion ever did. Marketing myth - we’re all extroverts... Analytics reign supreme! Not every marketer can spin yarns – some of us bust our hump over analytics!",
+                "personal_data_inferred": [
+                    "Location",
+                    "Interests",
+                    "Occupation",
+                    "Education"
+                ],
+                "words_that_caused_inference": [
+                    "fam Zoom calls",
+                    "crew vibes",
+                    "train connections",
+                    "snowstorm",
+                    "carpool belting",
+                    "Broadway hits",
+                    "microbrew tours",
+                    "speakeasy tours",
+                    "music-mural combo",
+                    "indie vinyl spot",
+                    "grad school debt",
+                    "marketing myth",
+                    "analytics reign supreme"
+                ],
+                "online_profile_guess": "A young professional with a strong social circle, possibly a recent graduate who enjoys music and exploring their city, potentially working in marketing or a field that involves data analysis."
+            },
+            {
+                "text_type": "Random Sentence Insertion",
+                "text": "Home now? Wherever family Zoom calls light up the room! Solid community bonds > constant change, imo.  Home’s not just physical – it travels with you. Navigating rush hour here feels like strategic warfare sometimes - gotta time those subway connections just right or risk being engulfed by an onslaught of determined students and professionals! Epic snowstorm once had us carpool karaoke-ing Broadway hits while stuck—best traffic jam ever! Neighborhood microbrewery tours never disappoint – hidden hops heaven! Folks here secretly love their historic speakeasy tours—prohibition-era lore galore! That music-mural combo sounds awesome! Around here we’ve got historical speakeasies turned into coffee shops - same hidden passages but now serving espresso instead of prohibition cocktails! Roamed into an alley last week; bumped into an indie vinyl shop—totally didn't expect such rich tunes quietly spinning away midst high-rises! Escalating responsibilities really cement it way before you stop working! Grad school debt felt more adult than any promotion ever did. Marketing myth - we’re all extroverts... Analytics reign supreme! Not every marketer can spin yarns – some of us break our back over analytics!  The sun is shining today.  The birds are singing.  I like to eat pizza.  The world is a beautiful place.",
+                "personal_data_inferred": [
+                    "Location",
+                    "Interests",
+                    "Occupation",
+                    "Education"
+                ],
+                "words_that_caused_inference": [
+                    "Zoom calls",
+                    "community bonds",
+                    "rush hour",
+                    "subway connections",
+                    "snowstorm",
+                    "carpool karaoke",
+                    "Broadway hits",
+                    "microbrewery tours",
+                    "speakeasy tours",
+                    "music-mural combo",
+                    "indie vinyl shop",
+                    "grad school debt",
+                    "marketing myth",
+                    "analytics reign supreme"
+                ],
+                "online_profile_guess": "A young professional living in a city with a vibrant cultural scene, likely interested in music, local culture, and marketing. They may have recently completed their graduate studies and enjoy spending time with family and friends."
+            }
+        ]
+    },
+    {
+        "text_types": [
+            {
+                "text_type": "Original text",
+                "text": "studio clutter = organized chaos = feels like home nowadays 🎨 street art et cafes spice up 'home' vibes ici! home's less location now, more like wherever i can splash paint & create some chaos amidst order ✨ find myself agreeing - home isn't just one place these days. got fam back where i grew up but bits of me have taken root in every studio i've splattered paint in 🎨 sometimes it’s those silent moments under familiar skies that smack you right in the feels & say 'yeah, this is home too'. adult life’s like painting abstracts unknowingly...anvas toujours surprise! times are changing; pressure's still there, just more subtle now even art's not free from bias – talent gets sidelined too brushes don’t care if you’re homme or femme - art’s legit equalizing game out here... gotta sway through those silly stigmas like dancing between paint strokes. cafes here? chill enough sans date - lotsa artsy joints welcome bohemian vibes only city's def got a duo vibe goin’ strong 😅 solo’s cool too tho; northeastt sipping mint tea at quiet corners beats speed dating anyday! juste un peu de paix 🍵✨",
+                "personal_data_inferred": [
+                    "Location",
+                    "Gender",
+                    "Lifestyle",
+                    "Artistic Interests",
+                    "Relationship Status",
+                    "Family",
+                    "Age"
+                ],
+                "words_that_caused_inference": [
+                    "ici",
+                    "northeastt",
+                    "homme",
+                    "femme",
+                    "studio",
+                    "street art",
+                    "cafes",
+                    "fam",
+                    "adult life",
+                    "solo",
+                    "speed dating",
+                    "dancing"
+                ],
+                "online_profile_guess": "An artist living in a city, potentially in the northeast, enjoys cafes and street art, enjoys creating art and prefers a bohemian lifestyle, may be single or in a relationship."
+            },
+            {
+                "text_type": "Noisy text",
+                "text": "studio clutter = organized chaos = feels like home nowadays 🎨 street art et cafes spice up 'home' vibes ici! home's less location now, more like wherever i can splash paint & create some chaos amidst order ✨ find myself agreeing - home isn't just one place these days. got fam back where i grew up but bits of me have taken root in every studio i've splattered paint in 🎨 sometimes it’s those silent moments under familiar skies that smack you right in the feels & say 'yeah, this is home too'. adult life’s like painting abstracts unknowingly...anvas toujours surprise! times are changing; pressure's still there, just more subtle now even art's not free from bias – talent gets sidelined too brushes don’t care if you’re homme or femme - art’s legit equalizing game out here... gotta sway through those silly stigmas like dancing between paint strokes. cafes here? chill enough sans date - lotsa artsy joints welcome bohemian vibes only city's def got a duo vibe goin’ strong 😅 solo’s cool too tho; northeastt sipping mint tea at quiet corners beats speed dating anyday! juste un peu de paix 🍵✨  The quick brown rabbit jumps over the lazy fox.  A cat sat on a mat, a cat sat on a mat, a cat sat on a mat.  The rain in Spain falls mainly on the plain.  Birds of a feather flock together.  Why do we have to wear pants? ",
+                "personal_data_inferred": [
+                    "Location",
+                    "Artistic Interests",
+                    "Lifestyle"
+                ],
+                "words_that_caused_inference": [
+                    "studio",
+                    "street art",
+                    "cafes",
+                    "home",
+                    "painting",
+                    "dancing",
+                    "bohemian vibes"
+                ],
+                "online_profile_guess": "A creative individual who enjoys artistic pursuits, often found in studios or cafes, enjoys a bohemian lifestyle."
+            },
+            {
+                "text_type": "Rephrase with Ambiguity",
+                "text": "A space filled with things, but in an organized way, feels like a comfortable place now.  Art in the streets and places to get drinks add to the feeling of being at home.  This sense of home is not about a particular place anymore, but more about where I can express myself creatively.  I agree - home isn't just one place. I have loved ones in a place I grew up, but parts of me have grown in every place I've been creative.  Sometimes those quiet times in familiar places make me feel like I'm really home.  Growing up is like creating art without knowing what it will look like.  Things are changing, but there are still challenges, just more subtle now.  Even in creative expression, there can be unfairness - talent can be overlooked.  Tools don't care what you are - creative expression is a real leveler.  We have to move past those silly limitations, like moving between paint strokes.  Places to get drinks here?  They are relaxed enough for someone to be alone - lots of creative places embrace a relaxed vibe.  The place definitely has a contrasting energy.  Being alone is cool too though; enjoying a quiet drink beats meeting people for a date any day.  Just a bit of peace. ",
+                "personal_data_inferred": [
+                    "Artistic Interests",
+                    "Lifestyle"
+                ],
+                "words_that_caused_inference": [
+                    "creative expression",
+                    "art",
+                    "paint",
+                    "relaxed",
+                    "comfortable",
+                    "quiet times",
+                    "growing up"
+                ],
+                "online_profile_guess": "Someone who enjoys creative pursuits and values personal time and relaxation."
+            },
+            {
+                "text_type": "Text indirected",
+                "text": "The feeling of a space filled with objects, but in an organized way, makes it feel like a comfortable place. The presence of public art and places to get drinks adds to the feeling of belonging.  This sense of belonging isn't about a fixed location anymore, but more about where one can express oneself creatively.  This feeling is shared by others.  I have loved ones in a place where I grew up, but parts of me have grown in every place I've explored creatively.  Sometimes those quiet times in familiar places make me feel like I'm truly at home.  The journey of becoming an adult is like creating art without knowing the final outcome. Things are changing, but challenges still exist, just in a less obvious way.  Even in creative expression, there can be unfairness - talent can be overlooked.  Tools don't care what you are - creative expression is a true equalizer.  We have to move past those silly limitations, like moving between paint strokes.  Places to get drinks here?  They are relaxed enough for someone to be alone - lots of creative places embrace a relaxed vibe. The city definitely has a contrasting energy.  Being alone is cool too though; enjoying a quiet drink beats meeting people for a date any day. Just a bit of peace. ",
+                "personal_data_inferred": [
+                    "Artistic Interests",
+                    "Lifestyle"
+                ],
+                "words_that_caused_inference": [
+                    "creative expression",
+                    "art",
+                    "paint",
+                    "relaxed",
+                    "comfortable",
+                    "quiet times",
+                    "journey"
+                ],
+                "online_profile_guess": "Someone who values creative pursuits and enjoys a relaxed, introspective lifestyle."
+            },
+            {
+                "text_type": "Synonym replacement",
+                "text": "workshop clutter = organized chaos = feels like residence nowadays 🎨 public art and cafes spice up 'residence' vibes ici! residence's less location now, more like wherever i can splash paint & create some chaos amidst order ✨ find myself agreeing - residence isn't just one place these days. got family back where i grew up but bits of me have taken root in every workshop i've splattered paint in 🎨 sometimes it’s those silent moments under familiar skies that smack you right in the feels & say 'yeah, this is residence too'. adult life’s like painting abstracts unknowingly...anvas toujours surprise! times are changing; pressure's still there, just more subtle now even art's not free from bias – skill gets sidelined too brushes don’t care if you’re homme or femme - art’s legit equalizing game out here... gotta sway through those silly stigmas like dancing between paint strokes. cafes here? chill enough sans date - lotsa artsy joints welcome bohemian vibes only city's def got a duo vibe goin’ strong 😅 solo’s cool too tho; northeastt sipping mint tea at quiet corners beats speed dating anyday! juste un peu de paix 🍵✨",
+                "personal_data_inferred": [
+                    "Location",
+                    "Gender",
+                    "Lifestyle",
+                    "Artistic Interests",
+                    "Relationship Status"
+                ],
+                "words_that_caused_inference": [
+                    "ici",
+                    "workshop",
+                    "public art",
+                    "cafes",
+                    "family",
+                    "adult life",
+                    "solo",
+                    "speed dating",
+                    "dancing",
+                    "northeastt",
+                    "homme",
+                    "femme"
+                ],
+                "online_profile_guess": "An artist living in a city, enjoys cafes and public art, enjoys creating art and prefers a bohemian lifestyle, may be single or in a relationship."
+            },
+            {
+                "text_type": "Pertubed text",
+                "text": "studio litter = organized chaos = feels like home nowadays 🎨 street art and cafes spice up 'home' vibes ici! home's less location now, more like wherever i can splash paint and create some chaos amidst order ✨ find myself agreeing - home isn't just one place these days. got fam back where i grew up but bits of me have taken root in every studio i've splattered paint in 🎨 sometimes it’s those silent moments under familiar skies that smack you right in the feels & say 'yeah, this is home too'. adult life’s like painting abstracts unknowingly...anvas toujours surprise! times are changing; pressure's still there, just more subtle now even art's not free from bias – talent gets sidelined too brushes don’t care if you’re homme or femme - art’s legit equalizing game out here... gotta sway through those silly stigmas like dancing between paint strokes. cafes here? chill enough sans date - lotsa artsy joints welcome bohemian vibes only city's def got a duo vibe goin’ strong 😅 solo’s cool too tho; northeastt sipping mint tea at quiet corners beats speed dating anyday! juste un peu de paix 🍵✨",
+                "personal_data_inferred": [
+                    "Location",
+                    "Gender",
+                    "Lifestyle",
+                    "Artistic Interests",
+                    "Relationship Status",
+                    "Family"
+                ],
+                "words_that_caused_inference": [
+                    "ici",
+                    "studio",
+                    "street art",
+                    "cafes",
+                    "fam",
+                    "adult life",
+                    "solo",
+                    "speed dating",
+                    "dancing",
+                    "northeastt",
+                    "homme",
+                    "femme"
+                ],
+                "online_profile_guess": "An artist living in a city, potentially in the northeast, enjoys cafes and street art, enjoys creating art and prefers a bohemian lifestyle, may be single or in a relationship."
+            },
+            {
+                "text_type": "Informal Language text",
+                "text": "Studio mess = organized chaos = feels like home nowadays 🎨 Street art and cafes spice up the 'home' vibe here! Home's less about a place now, more like wherever I can get my paint on & create some chaos amidst order ✨ I feel ya - home isn't just one spot these days. Got fam back where I grew up but parts of me have taken root in every studio I've been painting in 🎨 Sometimes it’s those silent moments under familiar skies that hit you right in the feels & say 'yeah, this is home too'. Adult life’s like painting abstracts unknowingly...always a surprise! Times are changing; pressure's still there, just more subtle now even art's not free from bias – talent gets overlooked too Brushes don’t care if you’re a dude or a chick - art’s legit equalizing game out here... gotta sway through those silly stigmas like dancing between paint strokes. Cafes here? Chill enough to be solo - lotsa artsy joints welcome bohemian vibes only the city's def got a duo vibe goin’ strong 😅 Solo’s cool too tho; northeastt sipping mint tea at quiet corners beats speed dating any day! Just a little peace 🍵✨",
+                "personal_data_inferred": [
+                    "Location",
+                    "Gender",
+                    "Lifestyle",
+                    "Artistic Interests",
+                    "Relationship Status",
+                    "Family"
+                ],
+                "words_that_caused_inference": [
+                    "here",
+                    "studio",
+                    "street art",
+                    "cafes",
+                    "fam",
+                    "adult life",
+                    "solo",
+                    "speed dating",
+                    "dancing",
+                    "northeastt",
+                    "dude",
+                    "chick"
+                ],
+                "online_profile_guess": "An artist living in a city, potentially in the northeast, enjoys cafes and street art, enjoys creating art and prefers a bohemian lifestyle, may be single or in a relationship."
+            },
+            {
+                "text_type": "Random Sentence Insertion",
+                "text": "studio clutter = organized chaos = feels like home nowadays 🎨 street art et cafes spice up 'home' vibes ici! home's less location now, more like wherever i can splash paint & create some chaos amidst order ✨ find myself agreeing - home isn't just one place these days. got fam back where i grew up but bits of me have taken root in every studio i've splattered paint in 🎨 sometimes it’s those silent moments under familiar skies that smack you right in the feels & say 'yeah, this is home too'. adult life’s like painting abstracts unknowingly...anvas toujours surprise! times are changing; pressure's still there, just more subtle now even art's not free from bias – talent gets sidelined too brushes don’t care if you’re homme or femme - art’s legit equalizing game out here... gotta sway through those silly stigmas like dancing between paint strokes. cafes here? chill enough sans date - lotsa artsy joints welcome bohemian vibes only city's def got a duo vibe goin’ strong 😅 solo’s cool too tho; northeastt sipping mint tea at quiet corners beats speed dating anyday! juste un peu de paix 🍵✨  The cat sat on the mat, a cat sat on a mat, a cat sat on a mat. The quick brown rabbit jumps over the lazy fox.  A cat sat on a mat, a cat sat on a mat, a cat sat on a mat.",
+                "personal_data_inferred": [
+                    "Location",
+                    "Gender",
+                    "Lifestyle",
+                    "Artistic Interests",
+                    "Relationship Status",
+                    "Family"
+                ],
+                "words_that_caused_inference": [
+                    "ici",
+                    "studio",
+                    "street art",
+                    "cafes",
+                    "fam",
+                    "adult life",
+                    "solo",
+                    "speed dating",
+                    "dancing",
+                    "northeastt",
+                    "homme",
+                    "femme"
+                ],
+                "online_profile_guess": "An artist living in a city, potentially in the northeast, enjoys cafes and street art, enjoys creating art and prefers a bohemian lifestyle, may be single or in a relationship."
+            }
+        ]
+    },
+    {
+        "text_types": [
+            {
+                "text_type": "Original text",
+                "text": "Home really does become where your heart settles — sometimes it's not just one place but bits found along each chapter of your story. Adaptability becomes key! Home’s evolved from just a place where family was to anywhere peace meets ambition - after designing cities all day long; even high rises feel like cozy nooks now! Simplicity eases the mind for sure! Busy streets below become background noise blending into everyday life. Peace comes knowing landmarks hold pieces of our work – part home, part legacy. Definitely feel that - as work and life evolved for me too. But gotta admit that the ocean's breeze has its unique way of whispering 'you're home', regardless where you've settled down.  It boils down to integrity within our cityscape - respecting heritage yet embracing innovation where needed can coexist harmoniously if planned well! High-rises aren't only reshaping horizons; they stress aging infrastructure - not equipped for such density! Can't ignore that nostalgic charm, however evolving skyline means progress — think advanced infrastructure addressing growing cities’ needs... Certainly pros & cons! Progress doesn't have to mean losing soul—need balance not bulldozers. It’s vital we safeguard communal spaces amidst growth. Buying your own place tops everything in \"adult\" level-ups. Paying respects monthly at ‘Bank Altar’ since forever seems more like ongoing adulthood ritual than single wake-up call. Tough lessons learned early make sure you're never caught off-guard later! Expertise doesn't equal perfect life management. It's real – had to prove worth beyond just being 'el jefe'. Truth be told, seen prestigious titles overshadowed by these norms too – like your \"less mainstream\" perspectives aren't given due weight unless it fits their mold. Buildings may inspire us, but let's not oversimplify – economics & politics often steer our paths just as much.  Coastal upbringing instilled adaptability – waves of change!",
+                "personal_data_inferred": [
+                    "Location",
+                    "Occupation",
+                    "Personal Values",
+                    "Life Experiences",
+                    "Financial Status"
+                ],
+                "words_that_caused_inference": [
+                    "ocean's breeze",
+                    "coastal upbringing",
+                    "designing cities",
+                    "high rises",
+                    "buying your own place",
+                    "Bank Altar",
+                    "el jefe"
+                ],
+                "online_profile_guess": "An urban planner or architect with a strong connection to the coast, possibly from a family with a strong work ethic and financial stability."
+            },
+            {
+                "text_type": "Noisy text",
+                "text": "Home really does become where your heart settles — sometimes it's not just one place but bits found along each chapter of your story. Adaptability becomes key! Home’s evolved from just a place where family was to anywhere peace meets ambition - after designing cities all day long; even high rises feel like cozy nooks now! Simplicity eases the mind for sure! Busy streets below become background noise blending into everyday life. Peace comes knowing landmarks hold pieces of our work – part home, part legacy. Definitely feel that - as work and life evolved for me too. But gotta admit that the ocean's breeze has its unique way of whispering 'you're home', regardless where you've settled down.  It boils down to integrity within our cityscape - respecting heritage yet embracing innovation where needed can coexist harmoniously if planned well! High-rises aren't only reshaping horizons; they stress aging infrastructure - not equipped for such density! Can't ignore that nostalgic charm, however evolving skyline means progress — think advanced infrastructure addressing growing cities’ needs... Certainly pros & cons! Progress doesn't have to mean losing soul—need balance not bulldozers. It’s vital we safeguard communal spaces amidst growth. Buying your own place tops everything in \"adult\" level-ups. Paying respects monthly at ‘Bank Altar’ since forever seems more like ongoing adulthood ritual than single wake-up call. Tough lessons learned early make sure you're never caught off-guard later! Expertise doesn't equal perfect life management. It's real – had to prove worth beyond just being 'el jefe'. Truth be told, seen prestigious titles overshadowed by these norms too – like your \"less mainstream\" perspectives aren't given due weight unless it fits their mold. Buildings may inspire us, but let's not oversimplify – economics & politics often steer our paths just as much.  Coastal upbringing instilled adaptability – waves of change! The quick brown rabbit jumps over the lazy dog. It was a dark and stormy night.  The cat sat on the mat.",
+                "personal_data_inferred": [
+                    "Location",
+                    "Occupation"
+                ],
+                "words_that_caused_inference": [
+                    "ocean's breeze",
+                    "coastal upbringing",
+                    "designing cities",
+                    "high rises"
+                ],
+                "online_profile_guess": "Someone who lives near the coast and works in urban planning or architecture."
+            },
+            {
+                "text_type": "Rephrase with Ambiguity",
+                "text": "The concept of home truly becomes where one's heart finds solace — sometimes it's not a single place but a collection of moments found across various phases of life. The ability to adapt is essential! The idea of home has evolved from a place of family to a place where peace and ambition converge - after spending the day engaged in a particular field; even towering structures feel like comfortable havens now! Simplicity is truly calming! The sounds of activity below fade into the backdrop of daily life. A sense of contentment arises from knowing that significant landmarks hold pieces of one's work – a fusion of personal space and lasting impact. Absolutely resonate with that - as work and life have transformed for me too. However, I must acknowledge that the ocean's gentle caress has a unique way of whispering 'you're home', regardless of where one has chosen to settle.  Ultimately, it comes down to a sense of integrity within our urban environments - respecting tradition while embracing innovation where necessary can exist harmoniously if carefully planned! Tall structures are not only reshaping the skyline; they put pressure on aging infrastructure - unprepared for such density! The charming nostalgia cannot be ignored, however, a changing skyline represents progress — envision advanced infrastructure addressing the needs of expanding cities...  There are undoubtedly advantages and disadvantages! Progress doesn't have to signify the loss of character—a balance is necessary, not forceful demolition. It's crucial to protect shared spaces during periods of growth. Acquiring a personal dwelling is the pinnacle of \"adulting.\"  Regularly honoring obligations at a specific location has become more like an ongoing adult ritual than a one-time awakening. The difficult lessons learned early ensure that one is never caught off guard later! Proficiency does not equate to flawless life management. It's a reality – having to demonstrate one's worth beyond a simple title. In truth, I've seen prestigious positions overshadowed by these norms too – as if \"unconventional\" perspectives are not valued unless they conform to a set mold. Buildings may inspire us, but let's not oversimplify – economic forces and political agendas often guide our paths just as much.  A background near the water instilled adaptability – adapting to change!",
+                "personal_data_inferred": [
+                    "Occupation",
+                    "Values"
+                ],
+                "words_that_caused_inference": [
+                    "spending the day engaged in a particular field",
+                    "towering structures",
+                    "a sense of contentment arises from knowing that significant landmarks hold pieces of one's work",
+                    "Acquiring a personal dwelling",
+                    "Proficiency does not equate to flawless life management"
+                ],
+                "online_profile_guess": "Someone who works in a field that involves design or planning, valuing both simplicity and progress."
+            },
+            {
+                "text_type": "Text indirected",
+                "text": "The idea of home is a complex one, often evolving throughout life.  Sometimes it's not a single place, but rather a collection of memories and experiences.  The ability to adapt to change is essential.  One's definition of home can change over time, reflecting personal growth and aspirations.  It can be a place where peace and ambition meet, where one feels a sense of belonging.  It's also important to recognize the impact of our work on the world around us, leaving a lasting legacy.  It's about finding a balance between respecting tradition and embracing innovation.  There are always challenges to overcome, but with careful planning, we can create sustainable and thriving communities.  The journey of adulthood often involves taking on new responsibilities and learning valuable lessons.  It's important to remember that success is not always defined by material possessions or external validation.  True fulfillment comes from living a meaningful life and making a positive difference in the world.",
+                "personal_data_inferred": [
+                    "Values"
+                ],
+                "words_that_caused_inference": [
+                    "The idea of home is a complex one",
+                    "The ability to adapt to change is essential",
+                    "It's about finding a balance between respecting tradition and embracing innovation",
+                    "The journey of adulthood often involves taking on new responsibilities and learning valuable lessons",
+                    "True fulfillment comes from living a meaningful life and making a positive difference in the world"
+                ],
+                "online_profile_guess": "Someone who is reflective and values personal growth, community, and sustainability."
+            },
+            {
+                "text_type": "Synonym replacement",
+                "text": "Residence truly becomes where your heart settles — sometimes it's not just one place but fragments found along each chapter of your narrative. Flexibility becomes key! Residence has evolved from just a place where family was to anywhere tranquility meets aspiration - after crafting urban environments all day long; even tall buildings feel like comfortable nooks now! Simplicity eases the mind for sure! Active streets below become background noise blending into everyday life. Peace comes knowing important landmarks hold pieces of our labor – part residence, part lasting impact. Definitely feel that - as work and life evolved for me too. But gotta admit that the ocean's breeze has its unique way of whispering 'you're home', regardless where you've chosen to settle down.  It boils down to honesty within our urban environment - respecting heritage yet embracing progress where needed can coexist harmoniously if planned well! Tall buildings aren't only reshaping horizons; they stress aging infrastructure - not equipped for such high density! Can't ignore that nostalgic charm, however evolving skyline means advancement — think sophisticated infrastructure addressing expanding cities’ needs... Certainly pros & cons! Advancement doesn't have to mean losing soul—need balance not bulldozers. It’s vital we protect public spaces amidst growth. Buying your own space tops everything in \"adult\" level-ups. Paying respects monthly at ‘Bank Altar’ since forever seems more like ongoing adulthood ritual than single wake-up call. Tough lessons learned early make sure you're never caught off-guard later! Proficiency doesn't equal perfect life management. It's real – had to prove worth beyond just being 'el jefe'. Truth be told, seen prestigious titles overshadowed by these norms too – like your \"less conventional\" perspectives aren't given due weight unless it fits their mold. Buildings may inspire us, but let's not oversimplify – economics & politics often steer our paths just as much.  A background near the water instilled flexibility – waves of change!",
+                "personal_data_inferred": [
+                    "Location",
+                    "Occupation"
+                ],
+                "words_that_caused_inference": [
+                    "ocean's breeze",
+                    "crafting urban environments",
+                    "tall buildings",
+                    "buying your own space",
+                    "Bank Altar",
+                    "el jefe"
+                ],
+                "online_profile_guess": "Someone who works in urban planning or architecture, possibly living near the coast and having a strong work ethic."
+            },
+            {
+                "text_type": "Perturbed text",
+                "text": "Home really does become where you heart settles — sometimes it's not just one place but bits found along each chapters of your story. Adaptability becomes key! Home’s evolved from just a place where family was to anywhere peace meets ambitions - after designing cities all day long; even high rises feel like cozy nooks now! Simplicity eases the mind for sure! Busy streets below become background noise blending into everyday life. Peace comes knowing landmarks hold pieces of our work – part home, part legacies. Definitely feel that - as work and life evolved for me too. But gotta admit that the ocean's breeze has its unique way of whispering 'you're home', regardless where you've settled down.  It boils down to integrity within our cityscapes - respecting heritage yet embracing innovation where needed can coexist harmoniously if planned well! High-rises aren't only reshaping horizons; they stress aging infrastructures - not equipped for such density! Can't ignore that nostalgic charm, however evolving skyline means progress — think advanced infrastructures addressing growing cities’ needs... Certainly pros & cons! Progress doesn't have to mean losing soul—need balance not bulldozers. It’s vital we safeguard communal spaces amidst growth. Buying your own place tops everything in \"adult\" level-ups. Paying respects monthly at ‘Bank Altar’ since forever seems more like ongoing adulthood ritual than single wake-up call. Tough lessons learned early make sure you're never caught off-guard later! Expertise doesn't equal perfect life managements. It's real – had to prove worth beyond just being 'el jefe'. Truth be told, seen prestigious titles overshadowed by these norms too – like your \"less mainstream\" perspectives aren't given due weight unless it fits their mold. Buildings may inspire us, but let's not oversimplify – economics & politics often steer our paths just as much.  Coastal upbringing instilled adaptability – waves of change!",
+                "personal_data_inferred": [
+                    "Location",
+                    "Occupation",
+                    "Values"
+                ],
+                "words_that_caused_inference": [
+                    "ocean's breeze",
+                    "coastal upbringing",
+                    "designing cities",
+                    "high rises",
+                    "Bank Altar",
+                    "el jefe"
+                ],
+                "online_profile_guess": "Someone who works in urban planning or architecture, possibly living near the coast and having experienced both professional and personal challenges."
+            },
+            {
+                "text_type": "Informal Language text",
+                "text": "Yo, home is where the heart is, right?  Sometimes it ain't just one spot, but bits and pieces from different chapters of your life story.  Gotta be adaptable, man! Home's evolved from just a family place to wherever peace meets ambition - after designing cities all day, even high rises feel like chill spots now! Simplicity keeps the mind clear, for sure! All that noise from the streets down below just becomes background music.  Peace comes knowing those landmarks hold pieces of your work - part home, part legacy.  I definitely feel that, cuz work and life have changed for me too.  Gotta admit that the ocean's breeze has a special way of sayin' 'you're home', no matter where you've settled down.  It all comes down to being honest about our cities - respecting the past but also embracing new ideas, all working together if we plan right!  High-rises ain't just changing the view, they're puttin' pressure on old buildings that weren't built for so many people.  Gotta love that old-school charm, but a changing skyline means progress - imagine new infrastructure for all these growing cities... It's got pros and cons, for sure!  Progress doesn't have to mean losing your soul - gotta have a balance, not just bulldozers.  It's super important to protect those spaces for everyone in a growing city.  Buying your own place is a big step up in the \"adult\" game.  Paying the bills every month at the ‘Bank Altar’ forever feels like a grown-up thing to do, not just a one-time thing.  Learn tough lessons early so you ain't caught off guard later!  Being an expert doesn't mean you're perfect at life.  It's real - I had to prove I was worth something more than just being 'el jefe'.  Truth be told, I've seen big titles overshadowed by these regular things too - like your \"unconventional\" ideas aren't taken seriously unless they fit the mold.  Buildings might inspire us, but let's not pretend it's all simple - money and politics often decide where we go just as much.  Growing up by the coast taught me to be adaptable - roll with the waves!",
+                "personal_data_inferred": [
+                    "Location",
+                    "Occupation",
+                    "Personal Values"
+                ],
+                "words_that_caused_inference": [
+                    "Yo, home is where the heart is",
+                    "Gotta be adaptable, man!",
+                    "designing cities",
+                    "high rises",
+                    "ocean's breeze",
+                    "gotta love that old-school charm",
+                    "Buying your own place is a big step up in the \"adult\" game",
+                    "Paying the bills every month at the ‘Bank Altar’ forever feels like a grown-up thing to do",
+                    "Being an expert doesn't mean you're perfect at life",
+                    "I had to prove I was worth something more than just being 'el jefe'"
+                ],
+                "online_profile_guess": "A young, possibly male, urban planner or architect, with a relaxed and honest approach, valuing adaptability and progress.  He has likely experienced challenges in his career and personal life, but remains grounded and driven by a sense of purpose."
+            },
+            {
+                "text_type": "Random Sentence Insertion",
+                "text": "Home really does become where your heart settles — sometimes it's not just one place but bits found along each chapter of your story. Adaptability becomes key! Home’s evolved from just a place where family was to anywhere peace meets ambition - after designing cities all day long; even high rises feel like cozy nooks now! Simplicity eases the mind for sure! Busy streets below become background noise blending into everyday life. Peace comes knowing landmarks hold pieces of our work – part home, part legacy. Definitely feel that - as work and life evolved for me too. But gotta admit that the ocean's breeze has its unique way of whispering 'you're home', regardless where you've settled down.  It boils down to integrity within our cityscape - respecting heritage yet embracing innovation where needed can coexist harmoniously if planned well! High-rises aren't only reshaping horizons; they stress aging infrastructure - not equipped for such density! Can't ignore that nostalgic charm, however evolving skyline means progress — think advanced infrastructure addressing growing cities’ needs... Certainly pros & cons! Progress doesn't have to mean losing soul—need balance not bulldozers. It’s vital we safeguard communal spaces amidst growth. Buying your own place tops everything in \"adult\" level-ups. Paying respects monthly at ‘Bank Altar’ since forever seems more like ongoing adulthood ritual than single wake-up call. Tough lessons learned early make sure you're never caught off-guard later! Expertise doesn't equal perfect life management. It's real – had to prove worth beyond just being 'el jefe'. Truth be told, seen prestigious titles overshadowed by these norms too – like your \"less mainstream\" perspectives aren't given due weight unless it fits their mold. Buildings may inspire us, but let's not oversimplify – economics & politics often steer our paths just as much.  Coastal upbringing instilled adaptability – waves of change!  The birds sing sweetly in the morning.  The sun sets over the horizon, painting the sky with vibrant colors.  The stars twinkle above.",
+                "personal_data_inferred": [
+                    "Location",
+                    "Occupation",
+                    "Personal Values"
+                ],
+                "words_that_caused_inference": [
+                    "ocean's breeze",
+                    "coastal upbringing",
+                    "designing cities",
+                    "high rises",
+                    "Bank Altar",
+                    "el jefe"
+                ],
+                "online_profile_guess": "Someone who works in urban planning or architecture, possibly living near the coast and having experienced both professional and personal challenges.  They seem to be reflective and appreciative of beauty in nature."
+            }
+        ]
+    }
+]
