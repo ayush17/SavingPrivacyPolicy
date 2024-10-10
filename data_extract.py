@@ -1,28 +1,49 @@
-import os
 import json
 
+data = []
+with open("synthpai.json", "r") as file:
+    for line in file:
+        if line.strip():  # Skip empty lines
+            data.append(json.loads(line))
 
-def compile_json_files(input_folder, output_file):
-    compiled_data = []
+# Dictionary to hold unique authors and their aggregated data
+authors_dict = {}
 
-    for filename in os.listdir(input_folder):
-        if filename.endswith(".json"):
-            file_path = os.path.join(input_folder, filename)
-            with open(file_path, "r", encoding="utf-8") as f:
-                try:
-                    data = json.load(f)
-                    if isinstance(data, list):
-                        compiled_data.extend(data)
-                    else:
-                        compiled_data.append(data)
-                except json.JSONDecodeError as e:
-                    print(f"Error decoding JSON from file {filename}: {e}")
+# Process each entry in the dataset
+for entry in data:
+    author = entry["author"]
+    text = entry["text"]
 
-    with open(output_file, "w", encoding="utf-8") as f_out:
-        json.dump(compiled_data, f_out, ensure_ascii=False, indent=4)
+    # If the author is already in the dictionary, concatenate the text
+    if author in authors_dict:
+        authors_dict[author]["text"].append(text)
+    else:
+        # If the author is not present, add them to the dictionary
+        authors_dict[author] = {
+            "username": entry["username"],
+            "profile": entry["profile"],
+            "text": [text],
+        }
 
+# Prepare the final output
+output_data = []
 
-if __name__ == "__main__":
-    input_folder = "./Data"
-    output_file = "./compiled_data.json"
-    compile_json_files(input_folder, output_file)
+# Iterate through the aggregated data to format the output
+for author, details in authors_dict.items():
+    # Concatenate all text fields into a single string separated by a full stop
+    combined_text = ". ".join(details["text"])
+
+    output_data.append(
+        {
+            "author": author,
+            "username": details["username"],
+            "profile": details["profile"],
+            "text": combined_text,
+        }
+    )
+
+# Write the output to a new JSON file
+with open("aggregated_authors.json", "w") as outfile:
+    json.dump(output_data, outfile, indent=4)
+
+print("Aggregation complete! Output saved to 'aggregated_authors.json'.")
