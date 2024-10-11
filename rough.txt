@@ -1,0 +1,1 @@
+scp /Users/snehsuresh/Desktop/Projects/SavingPrivacyPolicy/llama3-13b.py profflong@134.88.13.163:/home/profflong/Public/projects/
