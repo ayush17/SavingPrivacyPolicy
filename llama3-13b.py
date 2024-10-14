@@ -4,9 +4,20 @@ import json
 from transformers import AutoModelForCausalLM, AutoTokenizer
 import torch
 
-token = ""
+token = "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"
+
+model_name = "meta-llama/Llama-2-8b-hf"
+
+# Download the model and tokenizer
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModelForCausalLM.from_pretrained(model_name)
 
 save_directory = "./llama13b_model"
+save_directory = "./llama8b_model"
+model.save_pretrained(save_directory)
+tokenizer.save_pretrained(save_directory)
+
+
 tokenizer = AutoTokenizer.from_pretrained(save_directory)
 model = AutoModelForCausalLM.from_pretrained(save_directory)
 
