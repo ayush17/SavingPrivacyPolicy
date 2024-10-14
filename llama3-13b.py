@@ -4,7 +4,7 @@ import json
 from transformers import AutoModelForCausalLM, AutoTokenizer
 import torch
 
-token = "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"
+token = ""
 
 model_name = "meta-llama/Llama-2-8b-hf"
 

@@ -3,7 +3,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 import torch
 
 # Hugging Face token (replace with an actual token if necessary)
-token = "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"
+token = ""
 
 # Define save directory for the model
 save_directory = "./mistral_model"
