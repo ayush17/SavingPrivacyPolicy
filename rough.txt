@@ -1,3 +1,5 @@
-scp profflong@134.88.13.163:/home/profflong/Public/projects/mistral_output_data.txt /Users/snehsuresh/Desktop/Projects/SavingPrivacyPolicy/
+scp profflong@134.88.13.163:/home/profflong/Public/projects/mistral_output_data.txt /Volumes/T7/Research/SavingPrivacyPolicy/
 
-scp Users/snehsuresh/Desktop/Projects/SavingPrivacyPolicy/mistral.py profflong@134.88.13.163:/home/profflong/Public/projects/mistral.py /
+scp /Volumes/T7/Research/SavingPrivacyPolicy/mistral.py profflong@134.88.13.163:/home/profflong/Public/projects/mistral.py/
+
+scp /Volumes/T7/Research/SavingPrivacyPolicy/updatedCompleteData.json profflong@134.88.13.163:/home/profflong/Public/projects/
